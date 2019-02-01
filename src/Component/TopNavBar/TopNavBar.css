@@ -1,0 +1,35 @@
+#CattolicaNav .Cattolica_tabs {
+    font-size: 1.1em;
+    color: white;
+    font-family: "Georgia", sans-serif;
+}
+
+#CattolicaNav .Cattolica_tabs:hover{
+    color: #EB8E07;
+    background-color: #002F50;
+    transform: scale(1.45);
+}
+
+#CattolicaNav .Cattolica_tabs_d {
+    font-size: 1.1em;
+    color: white;
+    font-family: "Georgia", sans-serif;
+}
+
+#CattolicaNav .Cattolica_tabs_d:hover {
+    color: #EB8E07;
+    background-color: #002F50;
+    transform: scale(1.45);
+}
+
+#CattolicaNav .Cattolica_tabs_dd{
+    font-size: 0.8em;
+    font-family: "Georgia", sans-serif;
+    color: #FFB511;
+}
+#CattolicaNav h3{
+    font-size: 1em !important;
+    font-family: "Georgia", sans-serif;
+    color: #FFB511;
+}
+

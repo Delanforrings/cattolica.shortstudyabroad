@@ -1,0 +1,22 @@
+#Milan_Card .card_shadow{
+    box-shadow: 20px 20px 5px rgba(0, 0, 0, 0.2);
+    border: 1px black ;
+    font-family: "Georgia", sans-serif;
+}
+
+#Milan_Card .img_size_adjust{
+    height: 9em;
+    width: 15em;
+}
+
+#Milan_Card .card_body_bg{
+    background-color: #005591;
+}
+
+#Milan_Card a{
+    color: white;
+}
+
+#Milan_Card a:hover{
+    color: #EB8E07;
+}
