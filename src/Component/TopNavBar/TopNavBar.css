@@ -1,5 +1,5 @@
 #CattolicaNav .Cattolica_tabs {
-    font-size: 1.1em;
+    font-size: 1em;
     color: white;
     font-family: "Georgia", sans-serif;
 }
@@ -8,18 +8,22 @@
     color: #EB8E07;
     background-color: #002F50;
     transform: scale(1.45);
+    z-index: 100;
 }
 
 #CattolicaNav .Cattolica_tabs_d {
-    font-size: 1.1em;
+    font-size: 1em;
     color: white;
     font-family: "Georgia", sans-serif;
+
 }
 
 #CattolicaNav .Cattolica_tabs_d:hover {
     color: #EB8E07;
     background-color: #002F50;
     transform: scale(1.45);
+    z-index: 100;
+
 }
 
 #CattolicaNav .Cattolica_tabs_dd{

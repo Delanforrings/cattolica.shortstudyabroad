@@ -5,12 +5,18 @@ import {MDBView, MDBContainer, MDBCol, MDBRow, Animation} from 'mdbreact';
 import Milan_Card from "../../Component/Card/milan_card";
 import Cattolica_Footer from "../../Component/CattolicaFooter/Cattolica_Footer";
 import {CircleArrow as ScrollUpButton} from "react-scroll-up-button";
+import {Helmet} from "react-helmet";
 
 
 class Home extends React.Component {
     render () {
         return (
             <div id="CattolicaHome">
+                <Helmet>
+                    <meta charSet="utf-8" />
+                    <title>Study Abroad at UNIVERSITÀ CATTOLICA</title>
+                </Helmet>
+
                 <TopNavBar/>
                 <Animation type="fadeIn">
                     <MDBView className="banner">

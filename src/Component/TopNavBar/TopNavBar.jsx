@@ -87,6 +87,19 @@ class NavbarPage extends React.Component {
                                         </MDBDropdown>
                                     </MDBNavItem>
 
+                                    <MDBNavItem>
+                                        <MDBNavLink to="http://www.facebook.com/UCSC.International" className="Cattolica_tabs"><MDBIcon fab icon="facebook-square" /></MDBNavLink>
+                                    </MDBNavItem>
+                                    <MDBNavItem>
+                                        <MDBNavLink to="http://instagram.com/ucscinternational" className="Cattolica_tabs"><MDBIcon fab icon="instagram" /></MDBNavLink>
+                                    </MDBNavItem>
+                                    <MDBNavItem>
+                                        <MDBNavLink to="https://www.youtube.com/user/MyCattolica" className="Cattolica_tabs"><MDBIcon fab icon="youtube-square" /></MDBNavLink>
+                                    </MDBNavItem>
+                                    <MDBNavItem>
+                                        <MDBNavLink to="https://twitter.com/ucsc_int" className="Cattolica_tabs"><MDBIcon fab icon="twitter-square" /></MDBNavLink>
+                                    </MDBNavItem>
+                                    
                                 </MDBNavbarNav>
                             </MDBCollapse>
                         </MDBContainer>
