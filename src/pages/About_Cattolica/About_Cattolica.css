@@ -1,0 +1,21 @@
+#AboutCattolica .banner{
+    background-image: url("./aboutcattolica.jpg");
+    height:50vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 66em;
+}
+
+#AboutCattolica .colorChange{
+    color: #00609d;
+    font-weight: bold;
+}
+
+#AboutCattolica p {
+    font-family: arial, helvetica, sans-serif;;
+}
+
+#AboutCattolica h1 {
+    font-family: "Georgia", sans-serif;
+    color: #00538D;
+}

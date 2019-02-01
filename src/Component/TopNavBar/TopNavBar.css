@@ -38,6 +38,16 @@
     color: black;
 }
 
+#CattolicaNav h3:hover{
+    color: #00538D;
+}
+
+#CattolicaNav .Cattolica_tabs_dd_item:active{
+    background-color: transparent;
+}
+
+
+
 #CattolicaNav h3{
     font-size: 1em !important;
     font-family: "Georgia", sans-serif;
