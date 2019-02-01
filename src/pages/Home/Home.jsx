@@ -3,6 +3,8 @@ import "./Home.css";
 import TopNavBar from "../../Component/TopNavBar/TopNavBar";
 import {MDBView, MDBContainer, MDBCol, MDBRow, Animation} from 'mdbreact';
 import Milan_Card from "../../Component/Card/milan_card";
+import Cattolica_Footer from "../../Component/CattolicaFooter/Cattolica_Footer";
+import {CircleArrow as ScrollUpButton} from "react-scroll-up-button";
 
 
 class Home extends React.Component {
@@ -48,15 +50,15 @@ class Home extends React.Component {
                             <MDBCol size="3">
                                 <ul style={{ listStyleType: "none", padding: 0 }}>
                                     <li className="left_nav">
-                                        <span><a href="#!" className="white-text">Contact Us</a></span>
+                                        <span><a href="https://emea.hobsonsradius.com/ssc/iform/x77d7c7fI670x6700oC675.ssc" className="white-text">Contact Us</a></span>
                                     </li>
                                     <hr className="white-text"/>
                                     <li className="left_nav">
-                                        <span><a href="#!" className="white-text">Apply Now</a></span>
+                                        <span><a href="https://emea.hobsonsradius.com/ssc/aform/x8kk5pKM07020x670GS3K.ssc" className="white-text">Apply Now</a></span>
                                     </li>
                                     <hr className="white-text"/>
                                     <li className="left_nav">
-                                        <span><a href="#!" className="white-text">Download our Brochure</a></span>
+                                        <span><a href="http://www.studyitaly.it/index.php?option=com_content&view=article&id=301&catid=88&Itemid=784" className="white-text">Download our Brochure</a></span>
                                     </li>
                                 </ul>
                             </MDBCol>
@@ -65,7 +67,8 @@ class Home extends React.Component {
                             </MDBCol>
                         </MDBRow>
                     </MDBContainer>
-
+                <Cattolica_Footer/>
+                    <ScrollUpButton />
                 </Animation>
 
             </div>

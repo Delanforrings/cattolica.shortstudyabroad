@@ -1,0 +1,13 @@
+#Cattolica_Footer .footer_bg{
+    background-color: #005591;
+    padding: 2em;
+}
+
+#Cattolica_Footer .icon_color{
+    color: #EB8E07;
+}
+
+#Cattolica_Footer a:hover{
+    text-decoration: underline;
+    color: #EB8E07;
+}
