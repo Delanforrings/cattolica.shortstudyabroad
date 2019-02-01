@@ -11,6 +11,19 @@ class NavbarPage extends React.Component {
         this.setState({ isOpen: !this.state.isOpen });
     }
 
+    constructor(props) {
+        super(props)
+        this.state = { isOpen: false }
+    }
+
+    handleOpen = () => {
+        this.setState({ isOpen: true })
+    }
+
+    handleClose = () => {
+        this.setState({ isOpen: false })
+    }
+
 
     render() {
         const bgPink = {backgroundColor: '#106BAD'}
@@ -33,17 +46,37 @@ class NavbarPage extends React.Component {
                                             </MDBDropdownToggle>
                                             <MDBDropdownMenu right>
                                                 <MDBDropdownItem href="#!" className="Cattolica_tabs_dd">
+
                                                     <h3>
-                                                        UNIVERSITÀ CATTOLICA
+                                                        <MDBIcon icon="angle-right" className="icon_color"/> UNIVERSITÀ CATTOLICA
                                                     </h3>
-                                                    <MDBDropdownItem divider />
+                                                    <hr className="hr_style"/>
                                                 </MDBDropdownItem>
 
                                                 <MDBDropdownItem href="#!" className="Cattolica_tabs_dd">
-                                                    <h3>CAMPUSES</h3>
+                                                    <h3><MDBIcon icon="angle-right" className="icon_color"/> CAMPUSES - Milan</h3>
                                                 </MDBDropdownItem>
                                                 <MDBDropdownItem href="#!" className="Cattolica_tabs_dd">
-                                                    <h3>GLOBAL ENGAGEMENT</h3>
+                                                    <h3><MDBIcon icon="angle-down" className="icon_color"/>  GLOBAL ENGAGEMENT</h3>
+                                                    <hr className="hr_style"/>
+                                                </MDBDropdownItem>
+                                                <MDBDropdownItem href="#!" className="Cattolica_tabs_dd_item">
+                                                    <h3>International Links</h3>
+                                                </MDBDropdownItem>
+                                                <MDBDropdownItem href="#!" className="Cattolica_tabs_dd_item">
+                                                    <h3>Representatives</h3>
+                                                </MDBDropdownItem>
+                                                <MDBDropdownItem href="#!" className="Cattolica_tabs_dd_item">
+                                                    <h3>Cooperation Projects</h3>
+                                                </MDBDropdownItem>
+                                                <MDBDropdownItem href="#!" className="Cattolica_tabs_dd_item">
+                                                    <h3>CHEI - Center for Higher Education Internationalization</h3>
+                                                </MDBDropdownItem>
+                                                <MDBDropdownItem href="#!" className="Cattolica_tabs_dd_item">
+                                                    <h3>Confucius Institute</h3>
+                                                </MDBDropdownItem>
+                                                <MDBDropdownItem href="#!" className="Cattolica_tabs_dd_item">
+                                                    <h3>Confucius Institute</h3>
                                                 </MDBDropdownItem>
                                             </MDBDropdownMenu>
                                         </MDBDropdown>
@@ -64,9 +97,34 @@ class NavbarPage extends React.Component {
                                             </MDBDropdownToggle>
                                             <MDBDropdownMenu right>
                                                 <MDBDropdownItem href="#!" className="Cattolica_tabs_dd">
-                                                    <h3>MILAN CAMPUS</h3>
-                                                    <MDBDropdownItem divider />
+                                                    <h3><MDBIcon icon="angle-down" className="icon_color"/> MILAN CAMPUS</h3>
+                                                    <hr className="hr_style"/>
                                                 </MDBDropdownItem>
+                                                <MDBDropdownItem href="#!" className="Cattolica_tabs_dd">
+                                                    <h3>Italian Language Course</h3>
+                                                </MDBDropdownItem>
+                                                <MDBDropdownItem href="#!" className="Cattolica_tabs_dd">
+                                                    <h3>Support Services</h3>
+                                                </MDBDropdownItem>
+                                                <MDBDropdownItem href="#!" className="Cattolica_tabs_dd">
+                                                    <h3>Campus Facilities</h3>
+                                                </MDBDropdownItem>
+                                                <MDBDropdownItem href="#!" className="Cattolica_tabs_dd">
+                                                    <h3>Orientation Event</h3>
+                                                </MDBDropdownItem>
+                                                <MDBDropdownItem href="#!" className="Cattolica_tabs_dd">
+                                                    <h3>Student Associations</h3>
+                                                </MDBDropdownItem>
+                                                <MDBDropdownItem href="#!" className="Cattolica_tabs_dd">
+                                                    <h3>Health Services</h3>
+                                                </MDBDropdownItem>
+                                                <MDBDropdownItem href="#!" className="Cattolica_tabs_dd">
+                                                    <h3>Sport Facilities at Cattolica</h3>
+                                                </MDBDropdownItem>
+                                                <MDBDropdownItem href="#!" className="Cattolica_tabs_dd">
+                                                    <h3>Social Activities</h3>
+                                                </MDBDropdownItem>
+
 
                                             </MDBDropdownMenu>
                                         </MDBDropdown>
@@ -74,13 +132,25 @@ class NavbarPage extends React.Component {
 
                                     <MDBNavItem>
                                         <MDBDropdown>
-                                            <MDBDropdownToggle nav caret className="Cattolica_tabs_d">
+                                            <MDBDropdownToggle nav caret className="Cattolica_tabs_d" >
                                                 <div className="d-md-inline" >Life At Cattolica</div>
                                             </MDBDropdownToggle>
                                             <MDBDropdownMenu right>
                                                 <MDBDropdownItem href="#!" className="Cattolica_tabs_dd">
-                                                    <h3>LIFE IN MILAN</h3>
-                                                    <MDBDropdownItem divider />
+                                                    <h3><MDBIcon icon="angle-down" className="icon_color"/> LIFE IN MILAN</h3>
+                                                    <hr className="hr_style"/>
+                                                </MDBDropdownItem>
+                                                <MDBDropdownItem href="#!" className="Cattolica_tabs_dd">
+                                                    <h3>Accommodation in Milan</h3>
+                                                </MDBDropdownItem>
+                                                <MDBDropdownItem href="#!" className="Cattolica_tabs_dd">
+                                                    <h3>Living in Milan</h3>
+                                                </MDBDropdownItem>
+                                                <MDBDropdownItem href="#!" className="Cattolica_tabs_dd">
+                                                    <h3>Having fun in Milan</h3>
+                                                </MDBDropdownItem>
+                                                <MDBDropdownItem href="#!" className="Cattolica_tabs_dd">
+                                                    <h3>Useful Information</h3>
                                                 </MDBDropdownItem>
 
                                             </MDBDropdownMenu>
@@ -99,7 +169,7 @@ class NavbarPage extends React.Component {
                                     <MDBNavItem>
                                         <MDBNavLink to="https://twitter.com/ucsc_int" className="Cattolica_tabs"><MDBIcon fab icon="twitter-square" /></MDBNavLink>
                                     </MDBNavItem>
-                                    
+
                                 </MDBNavbarNav>
                             </MDBCollapse>
                         </MDBContainer>

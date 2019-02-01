@@ -7,7 +7,7 @@
 #CattolicaNav .Cattolica_tabs:hover{
     color: #EB8E07;
     background-color: #002F50;
-    transform: scale(1.45);
+    transform: scale(1.2);
     z-index: 100;
 }
 
@@ -21,7 +21,7 @@
 #CattolicaNav .Cattolica_tabs_d:hover {
     color: #EB8E07;
     background-color: #002F50;
-    transform: scale(1.45);
+    transform: scale(1.2);
     z-index: 100;
 
 }
@@ -29,11 +29,34 @@
 #CattolicaNav .Cattolica_tabs_dd{
     font-size: 0.8em;
     font-family: "Georgia", sans-serif;
-    color: #FFB511;
+    color: black;
 }
+
+#CattolicaNav .Cattolica_tabs_dd_item{
+    font-size: 0.7em;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+
 #CattolicaNav h3{
     font-size: 1em !important;
     font-family: "Georgia", sans-serif;
-    color: #FFB511;
+    color: black;
 }
 
+#CattolicaNav .hr_style{
+    overflow: visible; /* For IE */
+    padding: 0;
+    border: none;
+    border-top: medium double #106BAD;
+    color: #106BAD;
+    text-align: center;
+}
+
+#CattolicaNav MDBDropdownMenu{
+    background-color: white;
+}
+
+#CattolicaNav .icon_color{
+    color: #106BAD;
+}
