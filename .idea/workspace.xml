@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2aa2c78a-7558-4acc-927f-a3ef5b19e851" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/Component/CattolicaFooter/Cattolica_Footer.jsx" afterPath="$PROJECT_DIR$/src/Component/CattolicaFooter/Cattolica_Footer.jsx" />
-      <change beforePath="$PROJECT_DIR$/src/Component/TopNavBar/TopNavBar.css" afterPath="$PROJECT_DIR$/src/Component/TopNavBar/TopNavBar.css" />
       <change beforePath="$PROJECT_DIR$/src/Component/TopNavBar/TopNavBar.jsx" afterPath="$PROJECT_DIR$/src/Component/TopNavBar/TopNavBar.jsx" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -41,11 +38,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TopNavBar.jsx" pinned="false" current-in-tab="false">
+      <file leaf-file-name="TopNavBar.jsx" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Component/TopNavBar/TopNavBar.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="295">
-              <caret line="139" column="108" lean-forward="false" selection-start-line="139" selection-start-column="108" selection-end-line="139" selection-end-column="108" />
+            <state relative-caret-position="-461">
+              <caret line="89" column="89" lean-forward="false" selection-start-line="89" selection-start-column="89" selection-end-line="89" selection-end-column="89" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -53,10 +50,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Cattolica_Footer.jsx" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Cattolica_Footer.jsx" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Component/CattolicaFooter/Cattolica_Footer.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="353">
+            <state relative-caret-position="660">
               <caret line="44" column="80" lean-forward="false" selection-start-line="44" selection-start-column="80" selection-end-line="44" selection-end-column="80" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
@@ -145,8 +142,8 @@
         <option value="$PROJECT_DIR$/src/Component/Card/milan_card.css" />
         <option value="$PROJECT_DIR$/src/Component/Card/milan_card.jsx" />
         <option value="$PROJECT_DIR$/src/Component/TopNavBar/TopNavBar.css" />
-        <option value="$PROJECT_DIR$/src/Component/TopNavBar/TopNavBar.jsx" />
         <option value="$PROJECT_DIR$/src/Component/CattolicaFooter/Cattolica_Footer.jsx" />
+        <option value="$PROJECT_DIR$/src/Component/TopNavBar/TopNavBar.jsx" />
       </list>
     </option>
   </component>
@@ -300,12 +297,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1548972508370</updated>
-      <workItem from="1548972510896" duration="13543000" />
+      <workItem from="1548972510896" duration="13801000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13543000" />
+    <option name="totallyTimeSpent" value="13801000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
@@ -489,20 +486,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Component/TopNavBar/TopNavBar.jsx">
+    <entry file="file://$PROJECT_DIR$/src/Component/CattolicaFooter/Cattolica_Footer.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="139" column="108" lean-forward="false" selection-start-line="139" selection-start-column="108" selection-end-line="139" selection-end-column="108" />
+        <state relative-caret-position="660">
+          <caret line="44" column="80" lean-forward="false" selection-start-line="44" selection-start-column="80" selection-end-line="44" selection-end-column="80" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Component/CattolicaFooter/Cattolica_Footer.jsx">
+    <entry file="file://$PROJECT_DIR$/src/Component/TopNavBar/TopNavBar.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
-          <caret line="44" column="80" lean-forward="false" selection-start-line="44" selection-start-column="80" selection-end-line="44" selection-end-column="80" />
+        <state relative-caret-position="-461">
+          <caret line="89" column="89" lean-forward="false" selection-start-line="89" selection-start-column="89" selection-end-line="89" selection-end-column="89" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>

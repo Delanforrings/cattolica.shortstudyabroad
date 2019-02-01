@@ -87,7 +87,7 @@ class NavbarPage extends React.Component {
                                     </MDBNavItem>
 
                                     <MDBNavItem>
-                                        <MDBNavLink to="#!" className="Cattolica_tabs">Adimission</MDBNavLink>
+                                        <MDBNavLink to="#!" className="Cattolica_tabs">Admission</MDBNavLink>
                                     </MDBNavItem>
 
                                     <MDBNavItem>
