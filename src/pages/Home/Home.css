@@ -1,5 +1,5 @@
 #CattolicaHome .banner{
-    background-image: url("./studyabroad.jpg");
+    background-image: url("./home_banner.jpg");
     height:50vh;
     background-position: center;
     background-repeat: no-repeat;
@@ -9,12 +9,12 @@
 
 #CattolicaHome h1{
     font-family: "Georgia", sans-serif;
-    color: #00538D;
+    color: #00609d;
 }
 
 #CattolicaHome h3{
     font-family: "Georgia", sans-serif;
-    color: #00538D;
+    color: #00609d;
 }
 
 #CattolicaHome p{
@@ -29,6 +29,6 @@
 #CattolicaHome .left_nav{
     color: white;
     padding: 0.5em;
-    background-color: #005591;
+    background-color: #00609d;
 }
 

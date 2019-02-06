@@ -1,0 +1,65 @@
+#Life .banner{
+    background-image: url("./accom_milan.jpg");
+    height:50vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 66em;
+
+}
+
+#Life h1 {
+    font-family: "Georgia", sans-serif;
+    color: #00609d;
+}
+
+#Life h2 {
+    font-family: "Georgia", sans-serif;
+    color: #00609d;
+}
+
+#Life h5 {
+    font-family: "Georgia", sans-serif;
+    color: #00609d;
+}
+
+#Life h6 {
+    color: #d8a915;
+    font-family: "Georgia", sans-serif;
+}
+
+#Life p {
+    color: black;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#Life .posAdjust{
+    margin-top: -14em;
+}
+
+#Life a {
+    color: #0f8da0;
+}
+
+#Life ul {
+    list-style: none; /* Remove default bullets */
+}
+
+#Life li {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#Life ul li::before {
+    content: "\2022";  /* Add content: \2022 is the CSS Code/unicode for a bullet */
+    color: #EB8E07; /* Change the color */
+    font-weight: bold; /* If you want it to be bold */
+    display: inline-block; /* Needed to add space between the bullet and the text */
+    width: 1em; /* Also needed for space (tweak if needed) */
+    margin-left: -1em; /* Also needed for space (tweak if needed) */
+}
+

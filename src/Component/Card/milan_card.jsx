@@ -1,6 +1,6 @@
 import React from 'react';
 import { MDBBtn, MDBCard, MDBCardBody, MDBCardImage, MDBCardTitle, MDBCardText, MDBCol, MDBBadge } from 'mdbreact';
-import milan_card from './study_abroad_milan(1).JPG';
+import milan_card from './milan_card.jpg';
 import "./milan_card.css"
 
 const Milan_Card = () => {
@@ -11,7 +11,7 @@ const Milan_Card = () => {
                 <MDBCardBody className="card_body_bg">
                     <MDBCardTitle>
                         <h5><MDBBadge color="danger">New!!!</MDBBadge></h5>
-                        <span><a href="#!">Milan Campus</a></span>
+                        <span><a href="/program_milan">Milan Campus</a></span>
 
                     </MDBCardTitle>
                     <MDBCardText className="white-text">

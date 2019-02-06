@@ -19,7 +19,6 @@ class About_Cattolica extends React.Component{
         return(
 
             <div id="AboutCattolica">
-                <TopNavBar/>
                 <Helmet>
                     <meta charSet="utf-8" />
                     <title>About Cattolica</title>
@@ -55,7 +54,7 @@ class About_Cattolica extends React.Component{
                         <MDBRow>
                             <MDBCol size="12">
                                 <p>
-                                    At Cattolica your choices are endless: we offer an <span className="colorChange">impressive range of innovative programs</span>span> in the fields of Economics & Business, Accounting & Finance, Agriculture, Psychology and Linguistics, as well as Philosophy and the Arts.
+                                    At Cattolica your choices are endless: we offer an <span className="colorChange">impressive range of innovative programs</span> in the fields of Economics & Business, Accounting & Finance, Agriculture, Psychology and Linguistics, as well as Philosophy and the Arts.
                                 </p>
                             </MDBCol>
                         </MDBRow>
@@ -134,7 +133,6 @@ class About_Cattolica extends React.Component{
 
                 <MDBView>
                 </MDBView>
-                <FooterPage/>
             </div>
 
         )

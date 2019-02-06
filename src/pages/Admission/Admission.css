@@ -1,0 +1,79 @@
+#Admission .banner{
+    background-image: url("./studyabroad.jpg");
+    height:50vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 66em;
+
+}
+
+#Admission h1 {
+    font-family: "Georgia", sans-serif;
+    color: #00609d;
+}
+
+#Admission .colorChange {
+    font-family: "Georgia", sans-serif;
+    color: #00609d;
+}
+
+#Admission h5 {
+    font-family: "Georgia", sans-serif;
+    color: #00609d;
+}
+
+#Admission p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#Admission li {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#Admission .colorChange{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#Admission .fontChange{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#Admission .coloredBullet{
+    content: "\2022";  /* Add content: \2022 is the CSS Code/unicode for a bullet */
+    color: #EB8E07; /* Change the color */
+    font-weight: bold; /* If you want it to be bold */
+    display: inline-block; /* Needed to add space between the bullet and the text */
+    width: 1em; /* Also needed for space (tweak if needed) */
+    margin-left: -1em; /* Also needed for space (tweak if needed) */
+}
+
+#Admission ul {
+    list-style: none; /* Remove default bullets */
+}
+
+#Admission ul li::before {
+    content: "\2022";  /* Add content: \2022 is the CSS Code/unicode for a bullet */
+    color: #EB8E07; /* Change the color */
+    font-weight: bold; /* If you want it to be bold */
+    display: inline-block; /* Needed to add space between the bullet and the text */
+    width: 1em; /* Also needed for space (tweak if needed) */
+    margin-left: -1em; /* Also needed for space (tweak if needed) */
+}
+
+#Admission a {
+    color: #0f8da0;
+}
+
+#Admission .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    color: #ffffff !important;
+    background-color: #EB8E07 !important;
+    border-color: #dee2e6 #dee2e6 #fff;
+}
+
+

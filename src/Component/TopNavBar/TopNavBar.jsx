@@ -26,7 +26,7 @@ class TopNavBar extends React.Component {
 
 
     render() {
-        const bgPink = {backgroundColor: '#106BAD'}
+        const bgPink = {backgroundColor: '#00609d'}
         return(
             <div id="CattolicaNav">
                 <header>
@@ -84,11 +84,20 @@ class TopNavBar extends React.Component {
                                     </MDBNavItem>
 
                                     <MDBNavItem>
-                                        <MDBNavLink to="#!" className="Cattolica_tabs">Program</MDBNavLink>
+                                        <MDBDropdown>
+                                            <MDBDropdownToggle nav caret className="Cattolica_tabs_d" >
+                                                <div className="d-md-inline" >Programs</div>
+                                            </MDBDropdownToggle>
+                                            <MDBDropdownMenu right>
+                                                <MDBDropdownItem href="/program_milan" className="Cattolica_tabs_dd">
+                                                   Milan
+                                                </MDBDropdownItem>
+                                            </MDBDropdownMenu>
+                                        </MDBDropdown>
                                     </MDBNavItem>
 
                                     <MDBNavItem>
-                                        <MDBNavLink to="#!" className="Cattolica_tabs">Admission</MDBNavLink>
+                                        <MDBNavLink to="/admission" className="Cattolica_tabs">Admission</MDBNavLink>
                                     </MDBNavItem>
 
                                     <MDBNavItem>
@@ -141,16 +150,16 @@ class TopNavBar extends React.Component {
                                                     <MDBDropdownItem header>LIFE IN MILAN</MDBDropdownItem>
                                                     <hr className="hr_style"/>
                                                 </MDBDropdownItem>
-                                                <MDBDropdownItem href="#!" className="Cattolica_tabs_dd_item">
+                                                <MDBDropdownItem href="/life_accommodation" className="Cattolica_tabs_dd_item">
                                                     <h3>Accommodation in Milan</h3>
                                                 </MDBDropdownItem>
-                                                <MDBDropdownItem href="#!" className="Cattolica_tabs_dd_item">
+                                                <MDBDropdownItem href="/life_living" className="Cattolica_tabs_dd_item">
                                                     <h3>Living in Milan</h3>
                                                 </MDBDropdownItem>
-                                                <MDBDropdownItem href="#!" className="Cattolica_tabs_dd_item">
+                                                <MDBDropdownItem href="/life_having_fun" className="Cattolica_tabs_dd_item">
                                                     <h3>Having fun in Milan</h3>
                                                 </MDBDropdownItem>
-                                                <MDBDropdownItem href="#!" className="Cattolica_tabs_dd_item">
+                                                <MDBDropdownItem href="/life_useful_info" className="Cattolica_tabs_dd_item">
                                                     <h3>Useful Information</h3>
                                                 </MDBDropdownItem>
 

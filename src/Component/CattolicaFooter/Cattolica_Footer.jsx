@@ -3,7 +3,7 @@ import { MDBCol, MDBContainer, MDBRow, MDBFooter, MDBView, MDBMask, MDBIcon } fr
 import Footer_img from "./footerlogo-5.jpg";
 import "./Cattolica_Footer.css";
 
-const FooterPage = () => {
+const CattolicaFooter = () => {
     return (
         <div id="Cattolica_Footer">
             <MDBFooter className="font-small pt-4 mt-4">
@@ -40,7 +40,7 @@ const FooterPage = () => {
                         </MDBCol>
                     </MDBRow>
                 </MDBContainer>
-                <div className="footer-copyright text-center py-3 footer_bg">
+                <div className="footer-copyright text-center py-3 footer_bg_btm">
                     <MDBContainer fluid>
                         &copy; {new Date().getFullYear()} Copyright: <a href="#!"> shortstudyabroad.com </a>
                     </MDBContainer>
@@ -51,4 +51,4 @@ const FooterPage = () => {
     );
 }
 
-export default FooterPage;
+export default CattolicaFooter;

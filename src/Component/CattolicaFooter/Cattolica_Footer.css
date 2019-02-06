@@ -1,6 +1,10 @@
 #Cattolica_Footer .footer_bg{
-    background-color: #005591;
+    background-color: #00609d;
     padding: 2em;
+}
+
+#Cattolica_Footer .footer_bg_btm{
+    background-color: #0174d9;
 }
 
 #Cattolica_Footer .icon_color{

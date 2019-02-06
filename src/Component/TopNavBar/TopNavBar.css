@@ -19,7 +19,7 @@
 }
 
 #CattolicaNav .Cattolica_tabs_d:hover {
-    color: #EB8E07;
+    color: #ffa800;
     background-color: #002F50;
     transform: scale(1.2);
     z-index: 100;
@@ -33,13 +33,13 @@
 }
 
 #CattolicaNav .Cattolica_tabs_dd_item{
-    font-size: 0.7em;
+    font-size: 0.8em;
     font-family: Arial, Helvetica, sans-serif;
     color: black;
 }
 
 #CattolicaNav h3:hover{
-    color: #00538D;
+    color: #00609d;
 }
 
 #CattolicaNav .Cattolica_tabs_dd_item:active{
@@ -58,8 +58,8 @@
     overflow: visible; /* For IE */
     padding: 0;
     border: none;
-    border-top: medium double #106BAD;
-    color: #106BAD;
+    border-top: medium double #00609d;
+    color: #00609d;
     text-align: center;
 }
 
@@ -68,5 +68,5 @@
 }
 
 #CattolicaNav .icon_color{
-    color: #106BAD;
+    color: #00609d;
 }
