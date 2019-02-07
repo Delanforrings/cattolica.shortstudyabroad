@@ -5,17 +5,34 @@
     background-repeat: no-repeat;
     background-size: 66em;
 }
-
 #AboutCattolica .colorChange{
     color: #00609d;
     font-weight: bold;
 }
 
 #AboutCattolica p {
-    font-family: arial, helvetica, sans-serif;;
+    font-family: arial, helvetica, sans-serif;
 }
 
 #AboutCattolica h1 {
     font-family: "Georgia", sans-serif;
     color: #00538D;
+    font-size: 2.3em;
+}
+
+#AboutCattolica .posAdjust{
+    margin-top: 5em;
+}
+
+#AboutCattolica .alumni_icon{
+    height:80%;
+}
+
+#AboutCattolica .alumni_title{
+    margin-left: -3em;
+}
+
+#AboutCattolica strong {
+    font-family: arial, helvetica, sans-serif;
+    color: #000;
 }

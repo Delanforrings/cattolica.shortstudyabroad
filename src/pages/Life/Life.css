@@ -10,21 +10,25 @@
 #Life h1 {
     font-family: "Georgia", sans-serif;
     color: #00609d;
+    font-size: 2.3em;
 }
 
 #Life h2 {
     font-family: "Georgia", sans-serif;
     color: #00609d;
+    font-size: 1.9em;
 }
 
 #Life h5 {
     font-family: "Georgia", sans-serif;
     color: #00609d;
+    font-size: 1.5em;
 }
 
 #Life h6 {
     color: #d8a915;
     font-family: "Georgia", sans-serif;
+    font-size: 1.3em;
 }
 
 #Life p {

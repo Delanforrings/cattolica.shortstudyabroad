@@ -70,3 +70,8 @@
 #CattolicaNav .icon_color{
     color: #00609d;
 }
+
+#CattolicaNav .dooted{
+    border-top:1px dotted #000;
+    margin: 0px;
+}

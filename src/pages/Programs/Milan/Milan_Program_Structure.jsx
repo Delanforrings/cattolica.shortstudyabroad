@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import {MDBContainer, MDBRow, MDBCol, MDBTable, MDBTableHead, MDBTableBody, MDBView} from 'mdbreact';
+import {MDBContainer, MDBRow, MDBCol, MDBTable, MDBTableHead, MDBTableBody, MDBView, MDBBtn, MDBIcon, MDBBtnGroup } from 'mdbreact';
 import {Helmet} from 'react-helmet';
 import "./Milan_Program_Structure.css";
 import TabContent from 'react-bootstrap/TabContent';
@@ -1323,7 +1323,19 @@ class Milan_Program_Structure extends React.Component {
                                 </Tab.Content>
                             </MDBCol>
                             <MDBCol size="2.5">
+                                <MDBBtnGroup vertical className="btns">
+                                    <MDBBtn size="sm" color="primary" href="https://emea.hobsonsradius.com/ssc/aform/x8kk5pKM07020x670GS3K.ssc">
+                                        Apply Now  <MDBIcon far icon="edit" />
+                                    </MDBBtn>
+                                    <MDBBtn size="sm" color="primary" outline href="https://emea.hobsonsradius.com/ssc/iform/x77d7c7fI670x6700oC675.ssc">
+                                        Contact Us <MDBIcon icon="phone" />
+                                    </MDBBtn>
+                                </MDBBtnGroup>
+                                <br/>
+                                <br/>
+
                                 <Nav variant="pills" className="flex-column font_adjust">
+
                                     <Nav.Item>
                                         <Nav.Link eventKey="Home">Study Abroad program in Milan </Nav.Link>
                                     </Nav.Item>

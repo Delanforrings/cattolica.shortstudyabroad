@@ -10,11 +10,13 @@
 #CattolicaHome h1{
     font-family: "Georgia", sans-serif;
     color: #00609d;
+    font-size: 2.3em;
 }
 
 #CattolicaHome h3{
     font-family: "Georgia", sans-serif;
     color: #00609d;
+    font-size: 1.7em;
 }
 
 #CattolicaHome p{
@@ -30,5 +32,10 @@
     color: white;
     padding: 0.5em;
     background-color: #00609d;
+}
+
+#CattolicaHome .left_nav:hover{
+    transform: scale(1.1);
+    transition: 0.2s;
 }
 

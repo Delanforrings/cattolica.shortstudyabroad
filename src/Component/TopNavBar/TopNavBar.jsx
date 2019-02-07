@@ -51,33 +51,41 @@ class TopNavBar extends React.Component {
                                                 </MDBDropdownItem>
                                                 <MDBDropdownItem href="/about-cattolica" className="Cattolica_tabs_dd_item">
                                                     <h3>About Cattolica</h3>
+                                                    <hr className="dooted"/>
                                                 </MDBDropdownItem>
+                                                <MDBDropdownItem href="/numbers" className="Cattolica_tabs_dd_item">
+                                                    <h3>Numbers</h3>
+                                                    <hr className="dooted"/>
+                                                </MDBDropdownItem>
+                                                <MDBDropdownItem href="/alumni" className="Cattolica_tabs_dd_item">
+                                                    <h3>Notable Alumni</h3>
+                                                    <hr className="dooted"/>
+                                                </MDBDropdownItem>
+                                                <MDBDropdownItem href="/about-cattolica" className="Cattolica_tabs_dd_item">
+                                                    <h3>The Italian Higher Education System</h3>
+                                                    <hr className="dooted"/>
+                                                </MDBDropdownItem>
+                                                <MDBDropdownItem href="/about-cattolica" className="Cattolica_tabs_dd_item">
+                                                    <h3>Cattolica International News</h3>
+                                                    <hr className="dooted"/>
+                                                </MDBDropdownItem>
+                                                <MDBDropdownItem href="/about-cattolica" className="Cattolica_tabs_dd_item">
+                                                    <h3>Visit us in your country</h3>
+                                                    <hr className="dooted"/>
+                                                </MDBDropdownItem>
+                                                <MDBDropdownItem href="/about-cattolica" className="Cattolica_tabs_dd_item">
+                                                    <h3>Contacts</h3>
+                                                    <hr className="dooted"/>
+                                                </MDBDropdownItem>
+
 
                                                 <MDBDropdownItem href="#!" disabled className="Cattolica_tabs_dd">
                                                     <MDBDropdownItem header>CAMPUSES - Milan</MDBDropdownItem>
                                                     <hr className="hr_style"/>
                                                 </MDBDropdownItem>
-                                                <MDBDropdownItem href="#!" disabled className="Cattolica_tabs_dd">
-                                                    <MDBDropdownItem header>GLOBAL ENGAGEMENT</MDBDropdownItem>
-                                                    <hr className="hr_style"/>
-                                                </MDBDropdownItem>
-                                                <MDBDropdownItem href="#!" className="Cattolica_tabs_dd_item">
-                                                    <h3>International Links</h3>
-                                                </MDBDropdownItem>
-                                                <MDBDropdownItem href="#!" className="Cattolica_tabs_dd_item">
-                                                    <h3>Representatives</h3>
-                                                </MDBDropdownItem>
-                                                <MDBDropdownItem href="#!" className="Cattolica_tabs_dd_item">
-                                                    <h3>Cooperation Projects</h3>
-                                                </MDBDropdownItem>
-                                                <MDBDropdownItem href="#!" className="Cattolica_tabs_dd_item">
-                                                    <h3>CHEI - Center for Higher Education Internationalization</h3>
-                                                </MDBDropdownItem>
-                                                <MDBDropdownItem href="#!" className="Cattolica_tabs_dd_item">
-                                                    <h3>Confucius Institute</h3>
-                                                </MDBDropdownItem>
-                                                <MDBDropdownItem href="#!" className="Cattolica_tabs_dd_item">
-                                                    <h3>Africa Scholars Program</h3>
+                                                <MDBDropdownItem href="/campus_milan" className="Cattolica_tabs_dd_item">
+                                                    <h3>Milan</h3>
+                                                    <hr className="dooted"/>
                                                 </MDBDropdownItem>
                                             </MDBDropdownMenu>
                                         </MDBDropdown>
@@ -95,6 +103,7 @@ class TopNavBar extends React.Component {
                                                 </MDBDropdownItem>
                                                 <MDBDropdownItem href="/program_milan" className="Cattolica_tabs_dd_item">
                                                     <h3>In Milan</h3>
+                                                    <hr className="dooted"/>
                                                 </MDBDropdownItem>
                                             </MDBDropdownMenu>
                                         </MDBDropdown>
@@ -116,27 +125,35 @@ class TopNavBar extends React.Component {
                                                 </MDBDropdownItem>
                                                 <MDBDropdownItem href="#!" className="Cattolica_tabs_dd_item">
                                                     <h3>Italian Language Course</h3>
+                                                    <hr className="dooted"/>
                                                 </MDBDropdownItem>
                                                 <MDBDropdownItem href="#!" className="Cattolica_tabs_dd_item">
                                                     <h3>Support Services</h3>
+                                                    <hr className="dooted"/>
                                                 </MDBDropdownItem>
                                                 <MDBDropdownItem href="#!" className="Cattolica_tabs_dd_item">
                                                     <h3>Campus Facilities</h3>
+                                                    <hr className="dooted"/>
                                                 </MDBDropdownItem>
                                                 <MDBDropdownItem href="#!" className="Cattolica_tabs_dd_item">
                                                     <h3>Orientation Event</h3>
+                                                    <hr className="dooted"/>
                                                 </MDBDropdownItem>
                                                 <MDBDropdownItem href="#!" className="Cattolica_tabs_dd_item">
                                                     <h3>Student Associations</h3>
+                                                    <hr className="dooted"/>
                                                 </MDBDropdownItem>
                                                 <MDBDropdownItem href="#!" className="Cattolica_tabs_dd_item">
                                                     <h3>Health Services</h3>
+                                                    <hr className="dooted"/>
                                                 </MDBDropdownItem>
                                                 <MDBDropdownItem href="#!" className="Cattolica_tabs_dd_item">
                                                     <h3>Sport Facilities at Cattolica</h3>
+                                                    <hr className="dooted"/>
                                                 </MDBDropdownItem>
                                                 <MDBDropdownItem href="#!" className="Cattolica_tabs_dd_item">
                                                     <h3>Social Activities</h3>
+                                                    <hr className="dooted"/>
                                                 </MDBDropdownItem>
 
 
@@ -156,15 +173,19 @@ class TopNavBar extends React.Component {
                                                 </MDBDropdownItem>
                                                 <MDBDropdownItem href="/life_accommodation" className="Cattolica_tabs_dd_item">
                                                     <h3>Accommodation in Milan</h3>
+                                                    <hr className="dooted"/>
                                                 </MDBDropdownItem>
                                                 <MDBDropdownItem href="/life_living" className="Cattolica_tabs_dd_item">
                                                     <h3>Living in Milan</h3>
+                                                    <hr className="dooted"/>
                                                 </MDBDropdownItem>
                                                 <MDBDropdownItem href="/life_having_fun" className="Cattolica_tabs_dd_item">
                                                     <h3>Having fun in Milan</h3>
+                                                    <hr className="dooted"/>
                                                 </MDBDropdownItem>
                                                 <MDBDropdownItem href="/life_useful_info" className="Cattolica_tabs_dd_item">
                                                     <h3>Useful Information</h3>
+                                                    <hr className="dooted"/>
                                                 </MDBDropdownItem>
 
                                             </MDBDropdownMenu>

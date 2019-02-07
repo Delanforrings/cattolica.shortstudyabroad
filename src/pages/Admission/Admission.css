@@ -10,6 +10,7 @@
 #Admission h1 {
     font-family: "Georgia", sans-serif;
     color: #00609d;
+    font-size: 2.3em;
 }
 
 #Admission .colorChange {
@@ -20,6 +21,7 @@
 #Admission h5 {
     font-family: "Georgia", sans-serif;
     color: #00609d;
+    font-size: 1.5em;
 }
 
 #Admission p {
