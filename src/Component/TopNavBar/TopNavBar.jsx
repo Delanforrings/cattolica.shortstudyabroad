@@ -89,8 +89,12 @@ class TopNavBar extends React.Component {
                                                 <div className="d-md-inline" >Programs</div>
                                             </MDBDropdownToggle>
                                             <MDBDropdownMenu right>
-                                                <MDBDropdownItem href="/program_milan" className="Cattolica_tabs_dd">
-                                                   Milan
+                                                <MDBDropdownItem  disabled className="Cattolica_tabs_dd">
+                                                    <MDBDropdownItem header>Study Abroad Program</MDBDropdownItem>
+                                                    <hr className="hr_style"/>
+                                                </MDBDropdownItem>
+                                                <MDBDropdownItem href="/program_milan" className="Cattolica_tabs_dd_item">
+                                                    <h3>In Milan</h3>
                                                 </MDBDropdownItem>
                                             </MDBDropdownMenu>
                                         </MDBDropdown>
