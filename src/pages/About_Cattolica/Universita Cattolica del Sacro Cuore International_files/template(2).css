@@ -1,0 +1,368 @@
+/*
+ * ------------------------------------------------------------------------
+ * JA Travel Template for Joomla 3x
+ * ------------------------------------------------------------------------
+ * Copyright (C) 2004-2011 J.O.O.M Solutions Co., Ltd. All Rights Reserved.
+ * @license - Copyrighted Commercial Software
+ * Author: J.O.O.M Solutions Co., Ltd
+ * Websites:  http://www.joomlart.com -  http://www.joomlancers.com
+ * This file may not be redistributed in whole or significant part.
+ * ------------------------------------------------------------------------
+*/
+/* COMMON STYLE
+--------------------------------------------------------- */
+/* Readon links ---*/
+a.readon, p.readmore a{
+	background-image: url("../images/readmore.png");
+	color: #0153a6;
+}
+
+a.readon:hover, a.readon:focus, a.readon:active,
+p.readmore a:hover, p.readmore a:focus, p.readmore a:active {
+	background-image: url("../images/readmore-orange.png");
+	color: #173956;
+}
+
+a {
+	color: #0f8da0;
+}
+
+a:hover, a:active, a:focus {
+	color: #173956;
+}
+
+h1.componentheading, .componentheading {
+	color: #418BCF;
+}
+
+h2.contentheading, .contentheading {
+	color: #418bcf;
+}
+
+.custom_contact h1{
+	color: #2293C3;
+}
+
+h2.itemTitle a {
+	color: #2293C3;
+}
+
+.blog-featured .componentheading, .contact h2,  h2.title-categories {
+	background-image: url("../images/arrow-title.png");
+}
+
+.blog-featured .componentheading span, .contact h2 span, h2.title-categories span {
+	border-color: #0D99F6;
+}
+
+.blog h1.componentheading {
+	background-image: url("../images/arrow-title.png");
+}
+
+.blog h1.componentheading span {
+	border-bottom: 2px solid #0D99F6;
+}
+
+.blog h2.title-category {
+	color: #0D99F6;
+}
+
+.item-page h2 a {
+	color: #418BCF;
+}
+
+/*Search----*/
+#ja-search .inputbox {
+	background-image: url("../images/icon-search.png") !important;
+	color: #978d7f;
+}
+
+#ja-search input {
+	color: #8ba1b5;
+}
+
+/*Form--------*/
+.form-value .button {
+	background-image: url("../images/button-form.gif");
+	color: #fcf6e8;
+	text-shadow: 0 1px 1px rgba(120, 120, 120, 0.8);
+}
+
+#login-form ul li {
+	background-image: url("../images/bullet.png");
+}
+
+#jac-login-joomla-form h2,.ja-mass-bottom h4 a {
+	color: #2293C3;
+}
+
+#jac-login-joomla-form ul li a {
+	color: #2293C3;
+}
+
+.form-validate .componentheading, div.form-user .componentheading {
+	background-image: url("../images/arrow-title.png");
+}
+
+.form-validate .componentheading span, div.form-user .componentheading span {
+	border-color: #0d99f6;
+}
+
+.com_mailto div.componentheading {
+	color: #418bcf;
+}
+
+/* Module -----*/
+div.ja-moduletable h3, div.moduletable h3, div.componentheading_contact {
+	background-image: url("../images/arrow-title.png");
+}
+
+div.ja-moduletable h3 span, div.moduletable h3 span, div.componentheading_contact span {
+	border-color: #0d99f6;
+}
+
+.moduletable_share {
+	background: url("../images/share-bg.gif") repeat-x scroll left bottom #2a789a !important;
+	border-bottom: solid 0px #0158ac;
+	border-top: solid 1px #2885e0;
+}
+
+.moduletable_form h1 {
+	color: #418bcf;
+}
+
+.moduletable_newsletter h3 {
+	color: #418bcf !important;
+}
+
+.moduletable_aboutus a {
+	background-image: url("../images/ft_logo.png");
+}
+
+.moduletable_content .custom_content h2 {
+	color: #418bcf;
+}
+
+.moduletable_information .view-cotent h3 {
+	color: #418bcf !important;
+}
+
+.moduletable_country .ja-box-ct {
+	background-image: url("../images/map-paris.png");
+}
+
+.moduletable_country .ja-box-ct h3 {
+	color: #418bcf;
+}
+
+.moduletable_country .ja-box-ct a.readon {
+	background-image: url("../images/readmore-orange.png");
+	color: #173956;
+}
+
+/* HEADER
+--------------------------------------------------------- */
+#ja-header {
+	background: url(../images/top-bg.gif) repeat-x left bottom #00355a;
+}
+
+#ja-header .wrap-inner1{
+	background: none;
+}
+
+#ja-header h3 {
+	color: #0197e5;
+}
+
+#ja-topheader ul li {
+	border-color: #022648;
+}
+
+#ja-topheader ul li a {
+	color: #ffffff;
+}
+
+#ja-topheader ul li a:hover, #ja-topheader ul li a:focus, #ja-topheader ul li a:active {
+	color: #d8a915;
+}
+
+.distinations ul li {
+	background-image: url("../images/bullet.png");
+}
+
+/* Logo Image ---*/
+h1.logo a {
+	background-image: url(../images/logo.png);
+}
+
+/* Mainnav -----*/
+#ja-mainnav {
+	background: url("../images/mainnav-bg.gif") repeat-x scroll left bottom #0199e7;
+}
+
+#ja-subnav {
+	background-color: #0194e6;
+}
+
+#ja-subnav ul li.active a.active, #ja-subnav ul li.active a.active:hover,
+#ja-subnav ul li.active a.active:active, #ja-subnav ul li.active a.active:focus {
+	color: #1772b2;
+}
+
+.image-banner {
+	background-image: url("../images/map.png");
+}
+
+/* SPOTLIGHT
+--------------------------------------------------------- */
+#ja-topsl div.ja-moduletable h3, #ja-botsl2 div.ja-moduletable h3 {
+	color: #fff;
+}
+
+#ja-botsl2 .ja-moduletable ul li {
+	background-image: url("../images/bullet.png");
+}
+
+#ja-botsl2 .ja-moduletable ul li a {
+	color: #c8f854;
+}
+
+#ja-botsl {
+	color: #bbd8ed;
+}
+
+#ja-botsl2 {
+	background: url("../images/botsl_bg.gif") repeat-x scroll left top #0174d9;
+	border-top: solid 2px #00609d;
+}
+
+#ja-botsl2 {
+	color: #00609d;
+}
+
+#ja-botsl2 .img-border {
+	border-color: #00609d;
+}
+
+/* Footer-----*/
+#ja-footer {
+	background: url("../images/top-bga.gif") repeat-x left bottom;
+	color: #00609d;
+}
+
+#ja-footer .wrap-inner1 {
+	background: none;
+}
+
+#ja-footer small {
+	color: #d6dbde;
+}
+
+/*Content------*/
+.view-cotent h4 {
+	color: #0f8da0 !important;
+}
+
+.ja_socialaftertitle {
+	background-image: url("../images/toolbox-big-bg.png");
+}
+
+.articlecreated {
+	background-image: url("../images/toolbox-big-bg.png");
+}
+
+.articlecreated .date {
+	color: #d7f7fc;
+}
+
+.articlecreated .month-year {
+	color: #8bd1f6;
+}
+
+.articlecreated .month-year .year {
+	color: #7aacc4;
+}
+
+/*Slideshow-----*/
+#ja-slideshow {
+	background: url("../images/slideshow-bg.png") repeat-x scroll left bottom;
+}
+
+#ja-slideshow .wrap-inner1{
+	background-image: url("../images/shadow-bg.png");
+}
+
+.ja-slide-thumbs .ja-slide-thumb.active .ja-slide-thumb-inner, .ja-slide-thumbs .ja-slide-thumb.active span {
+	background: url("../images/active-bg.png") repeat-x scroll left top #e35a38;
+}
+
+.maskDesc .ja-slide-desc a.readon {
+	background-image: url("../images/button.png");
+	color: #feffff;
+	text-shadow: 1px 0 1px rgba(0,0,0,0.3);
+}
+
+/*Tabs------*/
+.travel .container .ja-tabs-title-top ul.ja-tabs-title li{
+	background: url("../images/normal-bg.gif") repeat-x scroll left top !important;
+}
+
+.travel .ja-tabs-title-left ul li.active h3, 
+.travel .ja-tabs-title-left ul li.firstactive h3, 
+.travel .ja-tabs-title-left ul li.lastactive h3 {
+	background: none;
+	color: #736d66;
+}
+
+.travel .ja-tabs-title-left ul.ja-tabs-title li h3 {
+	background-image: url("../images/arrow-r.png")!important;
+	color: #0f8da0 !important;
+}
+
+.travel .ja-tabs-title-left ul li.active h3, 
+.travel .ja-tabs-title-left ul li.firstactive h3, 
+.travel .ja-tabs-title-left ul li.lastactive h3 {
+	background: none !important;
+	color: #736D66 !important;
+}
+
+/* Comment ---*/ 
+#jac-wrapper h2.componentheading {
+	background-image: url("../images/arrow-title.png");
+}
+
+#jac-wrapper h2.componentheading span {
+	border-color: #0D99F6;
+}
+
+#jac-wrapper .comment-heading a.comment-user, #jac-wrapper .comment-heading span.comment-user,
+#jac-wrapper .rank-high .comment-rankingresult {
+	color: #0D99F6;
+}
+
+/* Style for Tag J3x */
+div.tag-category ul li h3 a {
+	color: #6B9A05;
+}
+
+div.tag-category ul li h3 a:hover,
+div.tag-category ul li h3 a:active,
+div.tag-category ul li h3 a:focus {
+	color: #173956;
+}
+
+div.tags span a:hover,
+div.tags span a:active,
+div.tags span a:focus {
+	background: #6B9A05;
+	border: 1px solid #6B9A05;
+	color: #fff;
+}
+
+div.tagspopular ul li a:hover,
+div.tagspopular ul li a:active,
+div.tagspopular ul li a:focus {
+	background: #6B9A05;
+	border: 1px solid #6B9A05;
+	color: #fff;
+}

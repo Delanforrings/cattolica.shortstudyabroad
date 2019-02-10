@@ -1,0 +1,195 @@
+/*
+ * ------------------------------------------------------------------------
+ * JA Travel Template for Joomla 3x
+ * ------------------------------------------------------------------------
+ * Copyright (C) 2004-2011 J.O.O.M Solutions Co., Ltd. All Rights Reserved.
+ * @license - Copyrighted Commercial Software
+ * Author: J.O.O.M Solutions Co., Ltd
+ * Websites:  http://www.joomlart.com -  http://www.joomlancers.com
+ * This file may not be redistributed in whole or significant part.
+ * ------------------------------------------------------------------------
+*/
+@import url(../fonts/aurulent/stylesheet.css);
+@import url(../fonts/ubuntu/stylesheet.css);
+/* lv - 1 and below
+-----------------------------------*/
+.ja-megamenu { margin-left: 25px; }
+
+#ja-megamenu ul.level0 {
+	font-family: 'Georgia',UbuntuBold,Arial,Helvetica,sans-serif;	
+}
+
+/* Styling ---*/
+.ja-megamenu ul.level0 li.mega {
+	background: url(../../images/mainnav-sep.png) repeat-y right top;
+}
+
+.ja-megamenu ul.level0 li.mega a.mega {
+	color: #fdd3a1;
+	display: block;
+	font-size: 120%;
+	font-weight: normal;
+	padding: 18px 20px;
+}
+
+.ja-megamenu ul.level0 li.mega span.menu-desc{
+	color: #da4444;
+	font-family: 'Georgia',AurulentSansRegular,Arial,Helvetica,sans-serif;
+	font-size: 80%;
+	margin-top: 0;
+}
+
+.ja-megamenu ul.level0 li.mega a.mega.active {
+	background: url(../../images/mainnav-active.gif) left top repeat-x;
+	color: #f9bc61;
+	margin: 0;
+	padding: 18px 20px;
+}
+
+.ja-megamenu ul.level0 li.mega a.mega.active span.menu-desc { color: #f5ae84; }
+
+.ja-megamenu ul.level0 li.haschild a.mega span.menu-desc, 
+.ja-megamenu ul.level0 li.haschild-over a.mega span.menu-desc { padding-left: 0; }
+
+.ja-megamenu ul.level0 li.mega a.mega.over {
+	background: url(../../images/maninav-hover.gif) left top repeat-x;
+	color: #faf3c6;
+	padding: 18px 20px;
+}
+
+.ja-megamenu ul.level0 li.haschild a.mega span.menu-title, 
+.ja-megamenu ul.level0 li.haschild-over a.mega span.menu-title {
+	background: url("../../images/arrow3.png") no-repeat scroll right 5px;
+	padding-left: 0;
+	padding-right: 16px;
+}
+
+.ja-megamenu ul.level0 li.haschild.active a.haschild.active span.menu-title,
+.ja-megamenu ul.level0 li.haschild-over.active a.haschild.active.over span.menu-title {
+	color: #f9bc61;
+	padding-left: 0 !important;
+	padding-right: 16px !important;
+}
+
+.ja-megamenu ul.level0 li.mega a.mega.over span.menu-desc { color: #fbb799; }
+
+/* lv - 1 and below
+-----------------------------------*/
+/* Styling ---*/
+.ja-megamenu ul.level1, #ja-megamenu ul.level1{ display: block; 	font-family: Arial, Helvetica, sans-serif;}
+
+.ja-megamenu ul.level1 li.mega {
+	background: none;
+	border-bottom: 1px dotted #CEBCAC;
+	display: block;
+	margin: 0;
+	padding: 0;
+}
+
+.ja-megamenu ul.level1 li.mega.haschild {
+	background: url("../../images/bullet-normal.png") no-repeat scroll right center;
+}
+
+.ja-megamenu ul.level1 li.mega.haschild-over,
+.ja-megamenu ul.level1 li.active.haschild,
+.ja-megamenu ul.level1 li.mega.active.haschild-over{
+	background: url("../../images/bullet.png") no-repeat scroll right center;
+}
+
+.ja-megamenu ul.level1 li.mega a.mega {
+	color: #73695C;
+	display: block;
+	font-size: 100%;
+	padding: 7px 0px 7px 5px;
+	text-decoration: none;
+}
+
+.ja-megamenu ul.level1 li.mega a.mega.over,
+.ja-megamenu ul.level1 li.mega.active a.mega.active {
+	background: none;
+	color: #ef761a;
+	padding: 7px 0px 7px 5px;
+	text-decoration: none;
+}
+
+.ja-megamenu ul.level1 li.mega.active a.mega.active { padding: 5px; }
+
+.ja-megamenu ul.level1 li a.mega span.menu-title, 
+.ja-megamenu ul.level1 li a.mega span.menu-title {
+	background: none !important;
+	padding-left: 0 !important;
+}
+
+.ja-megamenu ul.level1 li.haschild.active a.haschild.active span.menu-title, 
+.ja-megamenu ul.level1 li.haschild-over.active a.haschild.active.over span.menu-title { color: #ef761a; }
+
+ /* CHILD CONTENT
+-----------------------------------*/
+.ja-megamenu .childcontent-inner {
+	background: url(../../images/menu-bg.gif) repeat-x left top #fff;
+	border-top: 5px solid #c1022b;
+	display: block;
+}
+
+.ja-megamenu .childcontent .ja-moduletable { color: #333; }
+
+.ja-megamenu .childcontent .ja-moduletable h3 {
+	background: none;
+	border-bottom: 1px dotted #938781;
+	text-transform: uppercase;
+}
+
+.ja-megamenu ul.level1 .childcontent .megacol{ background: #fff; border: solid 1px #ddd; }
+
+/* Grouped --- */
+.ja-megamenu .group-title { margin-top: 20px; }
+
+.ja-megamenu ul.level1 li.mega .group-title a.mega {
+	background: url(../../images/arrow-title.png) no-repeat 20px 22px;
+	color: #383435;
+	display: block;
+	font-family: 'Georgia',AurulentSansRegular,Helvetica,Arial,sans-serif;
+	font-size: 100%;
+	font-weight: normal;
+	margin: 0 0 0 10px;
+	padding: 0 0 5px 0;
+	text-decoration: none;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+
+.ja-megamenu ul.level0 li.mega .group-content .has-image { padding-left: 0; }
+
+.ja-megamenu ul.level1 li.mega .group-title a.mega span.menu-title {
+	background: none;
+	border-bottom: 2px solid #F24A6F;
+	padding-bottom: 3px;
+}
+
+.ja-megamenu .childcontent-inner ul.level1 li.mega.last,
+.ja-megamenu .childcontent-inner .megacol li.mega.group { border-bottom: none; }
+
+.ja-megamenu .level1 .childcontent-inner { border-top: none; }
+
+.view-mega img { background-color: #f6f2ed; float: left; padding: 4px; }
+
+.view-mega p {
+	display: block;
+	float: left;
+	margin: 0 !important;
+	padding: 0 !important;
+}
+
+.view-mega p span.badge { right: -4px; top: 60px; }
+
+.view-mega h3 {
+	border-bottom: none !important;
+	color: #EF761A !important;
+	display: block;
+	float: left;
+	margin: 10px 0 5px 0 !important;
+	padding: 0 !important;
+	text-indent: 0 !important;
+	text-transform: none !important;
+	width: 120%;
+}
