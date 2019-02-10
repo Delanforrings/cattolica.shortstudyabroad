@@ -9,20 +9,42 @@ class TopNavBar extends React.Component {
 
     toggleCollapse = () => {
         this.setState({ isOpen: !this.state.isOpen });
-    }
+    };
 
     constructor(props) {
-        super(props)
-        this.state = { isOpen: false }
+        super(props);
+        this.state = { isOpen: false };
+        this.handleFacebook = this.handleFacebook.bind(this);
+        this.handleIns = this.handleIns.bind(this);
+        this.handleYoutube = this.handleYoutube.bind(this);
+        this.handleTwitter = this.handleTwitter.bind(this);
+
     }
+
+    handleFacebook(){
+        window.location.replace("http://www.facebook.com/UCSC.International");
+    }
+
+    handleIns(){
+        window.location.replace("http://instagram.com/ucscinternational");
+    }
+
+    handleYoutube(){
+        window.location.replace("https://www.youtube.com/user/MyCattolica");
+    }
+
+    handleTwitter(){
+        window.location.replace("https://twitter.com/ucsc_int");
+    }
+
 
     handleOpen = () => {
         this.setState({ isOpen: true })
-    }
+    };
 
     handleClose = () => {
         this.setState({ isOpen: false })
-    }
+    };
 
 
     render() {
@@ -193,16 +215,16 @@ class TopNavBar extends React.Component {
                                     </MDBNavItem>
 
                                     <MDBNavItem>
-                                        <MDBNavLink to="http://www.facebook.com/UCSC.International" className="Cattolica_tabs"><MDBIcon fab icon="facebook-square" /></MDBNavLink>
+                                        <MDBNavLink to="#!" className="Cattolica_tabs" onClick={this.handleFacebook}><MDBIcon fab icon="facebook-square" /></MDBNavLink>
                                     </MDBNavItem>
                                     <MDBNavItem>
-                                        <MDBNavLink to="http://instagram.com/ucscinternational" className="Cattolica_tabs"><MDBIcon fab icon="instagram" /></MDBNavLink>
+                                        <MDBNavLink to="#!" className="Cattolica_tabs" onClick={this.handleIns}><MDBIcon fab icon="instagram" /></MDBNavLink>
                                     </MDBNavItem>
                                     <MDBNavItem>
-                                        <MDBNavLink to="https://www.youtube.com/user/MyCattolica" className="Cattolica_tabs"><MDBIcon fab icon="youtube-square" /></MDBNavLink>
+                                        <MDBNavLink to="#!" className="Cattolica_tabs" onClick={this.handleYoutube}><MDBIcon fab icon="youtube-square" /></MDBNavLink>
                                     </MDBNavItem>
                                     <MDBNavItem>
-                                        <MDBNavLink to="https://twitter.com/ucsc_int" className="Cattolica_tabs"><MDBIcon fab icon="twitter-square" /></MDBNavLink>
+                                        <MDBNavLink to="#!" className="Cattolica_tabs" onClick={this.handleTwitter}><MDBIcon fab icon="twitter-square" /></MDBNavLink>
                                     </MDBNavItem>
 
                                 </MDBNavbarNav>

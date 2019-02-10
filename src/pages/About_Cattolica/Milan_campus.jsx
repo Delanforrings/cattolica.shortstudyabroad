@@ -10,7 +10,7 @@ class Milan_campus extends React.Component {
             <div id="AboutCattolica">
                 <Helmet>
                     <meta charSet="utf-8" />
-                    <title>Notable Alumni</title>
+                    <title>Milan Campus</title>
                 </Helmet>
                 <MDBView className="banner_campus" />
                 <br/>

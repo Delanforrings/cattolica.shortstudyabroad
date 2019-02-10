@@ -14,6 +14,13 @@
     font-size: 1em;
 }
 
+#Milan_Program .nav-link:hover {
+    color: white;
+    background-color: #EB8E07;
+    font-family: "Arial", sans-serif;
+    font-size: 1em;
+}
+
 #Milan_Program h1 {
     font-size: 2.3em;
     font-family: "Georgia", sans-serif;
@@ -55,7 +62,7 @@
 }
 
 #Milan_Program .posAdjust{
-    margin-top: -13em;
+    margin-top: -10em;
 }
 
 #Milan_Program .font_adjust{
