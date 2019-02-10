@@ -196,6 +196,138 @@ class Alumni extends React.Component {
                         </MDBCol>
                     </MDBRow>
 
+                    <MDBRow>
+                        <MDBCol>
+                            <h5>
+                                Politics
+                            </h5>
+                            <p>
+                                <strong>
+                                    <span className="grey-text">Oscar Luigi Scalfaro,</span> <span className="font-italic">Former President of the Italian Republic</span>
+                                </strong>
+                                <br/>
+                                <strong>
+                                    <span className="grey-text">Ciriaco de Mita,</span> <span className="font-italic">Former Prime Minister</span>
+                                </strong>
+                                <br/>
+                                <strong>
+                                    <span className="grey-text">Amintore Fanfani,</span> <span className="font-italic">Former Prime Minister</span>
+                                </strong>
+                                <br/>
+                                <strong>
+                                    <span className="grey-text">Giovanni Maria Flick,</span> <span className="font-italic">Former Minister of Justice and Constitutional Court President</span>
+                                </strong>
+                                <br/>
+                                <strong>
+                                    <span className="grey-text">Angelino Alfano,</span> <span className="font-italic">Minister of Internal Affairs</span>
+                                </strong>
+                                <br/>
+                            </p>
+                            <hr/>
+                            <h5>
+                                Business
+                            </h5>
+                            <p>
+                                <strong>
+                                    <span className="grey-text">Angelo Caloia,</span> <span className="font-italic">Banker</span>
+                                </strong>
+                                <br/>
+                                <strong>
+                                    <span className="grey-text">Enrico Mattei,</span> <span className="font-italic">ENI founder</span>
+                                </strong>
+                                <br/>
+                                <strong>
+                                    <span className="grey-text">Nicola Trussardi,</span> <span className="font-italic">Fashion designer</span>
+                                </strong>
+                                <br/>
+                                <strong>
+                                    <span className="grey-text">Luigi Pasinetti,</span> <span className="font-italic">Post-Keynesian Economist</span>
+                                </strong>
+                                <br/>
+                                <strong>
+                                    <span className="grey-text">Anna Maria Tarantola,</span> <span className="font-italic">President RAI</span>
+                                </strong>
+                                <br/>
+                                <strong>
+                                    <span className="grey-text">Giacomo Campora,</span> <span className="font-italic">Allianz Bank Financial Advisors S.p.a. CEO</span>
+                                </strong>
+                                <br/>
+                                <strong>
+                                    <span className="grey-text">Pasquale Cannatelli,</span> <span className="font-italic">Fininvest CEO</span>
+                                </strong>
+                                <br/>
+                                <strong>
+                                    <span className="grey-text">Gabriele Del Torchio,</span> <span className="font-italic">Alitalia Vice President and CEO</span>
+                                </strong>
+                                <br/>
+                                <strong>
+                                    <span className="grey-text">Dino Piero Giarda,</span> <span className="font-italic">Banca Popolare Italiana President and Banco Popolare Vice-President</span>
+                                </strong>
+                                <br/>
+                            </p>
+                            <hr/>
+                            <h5>
+                                Agri-food sector
+                            </h5>
+                            <p>
+                                <strong>
+                                    <span className="grey-text">Pasquale Cetola,</span> <span className="font-italic">Specialist in technological innovation and sustainable use of PPPs at Agrofarma</span>
+                                </strong>
+                                <br/>
+                            </p>
+                            <hr/>
+                            <h5>
+                                Medicine
+                            </h5>
+                            <p>
+                                <strong>
+                                    <span className="grey-text">Francesco Rubino,</span> <span className="font-italic">World first Professor of Metabolic Surgery – King’s College</span>
+                                </strong>
+                                <br/>
+                                <strong>
+                                    <span className="grey-text">Lorenzo Bonomo,</span> <span className="font-italic">European Society of Radiology President</span>
+                                </strong>
+                                <br/>
+                            </p>
+                            <hr/>
+                            <h5>
+                                Arts, humanities and show business
+                            </h5>
+                            <p>
+                                <strong>
+                                    <span className="grey-text">Roberto Vecchioni,</span> <span className="font-italic">Singer</span>
+                                </strong>
+                                <br/>
+                                <strong>
+                                    <span className="grey-text">Chiara Galiazzo,</span> <span className="font-italic">The X Factor Italia Winner 2012</span>
+                                </strong>
+                                <br/>
+                                <strong>
+                                    <span className="grey-text">Aldo Grasso,</span> <span className="font-italic">TV critic of Corriere della Sera</span>
+                                </strong>
+                                <br/>
+                                <strong>
+                                    <span className="grey-text">Valerio Massimo Manfredi,</span> <span className="font-italic">Archaeologist and Novelist</span>
+                                </strong>
+                                <br/>
+                            </p>
+                            <hr/>
+                            <h5>
+                                Sports
+                            </h5>
+                            <p>
+                                <strong>
+                                    <span className="grey-text">Michela Cerruti,</span> <span className="font-italic">A2014 Italian GT Championship European F3 Open Championship Toyota Racing Series</span>
+                                </strong>
+                                <br/>
+                                <strong>
+                                    <span className="grey-text">Simon Barjie,</span> <span className="font-italic">AGambian Footballer</span>
+                                </strong>
+                                <br/>
+                            </p>
+                        </MDBCol>
+                    </MDBRow>
+
                 </MDBContainer>
 
             </div>

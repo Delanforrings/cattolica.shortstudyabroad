@@ -20,6 +20,12 @@
     font-size: 2.3em;
 }
 
+#AboutCattolica h5 {
+    font-family: "Arial", sans-serif;
+    color: #00538D;
+    font-size: 1.5em;
+}
+
 #AboutCattolica .posAdjust{
     margin-top: 5em;
 }
