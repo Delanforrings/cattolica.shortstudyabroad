@@ -52,7 +52,7 @@ class Milan_Program_Structure extends React.Component {
                                                 </p>
                                             </MDBCol>
                                             <MDBCol size="3">
-                                                <img src={milan_program_home_banner} />
+                                                <img src={milan_program_home_banner} className="img_shadow img-fluid"/>
                                             </MDBCol>
                                         </MDBRow>
                                         <MDBRow className="posAdjust">

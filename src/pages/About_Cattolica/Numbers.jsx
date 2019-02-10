@@ -45,7 +45,7 @@ class Numbers extends React.Component {
                             </p>
                         </MDBCol>
                         <MDBCol size="4" className="posAdjust">
-                            <img src={numbers_banner} className="img-fluid" />
+                            <img src={numbers_banner} className="img-fluid img_shadow" />
                         </MDBCol>
                     </MDBRow>
                 </MDBContainer>

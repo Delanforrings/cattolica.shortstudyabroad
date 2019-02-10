@@ -5,6 +5,15 @@
     background-repeat: no-repeat;
     background-size: 66em;
 }
+
+#AboutCattolica .banner_campus{
+    background-image: url("./milan.jpg");
+    height:50vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 66em;
+}
+
 #AboutCattolica .colorChange{
     color: #00609d;
     font-weight: bold;
@@ -41,4 +50,25 @@
 #AboutCattolica strong {
     font-family: arial, helvetica, sans-serif;
     color: #000;
+}
+
+#AboutCattolica ul {
+    list-style: none; /* Remove default bullets */
+}
+
+#AboutCattolica ul li::before {
+    content: "\2022";  /* Add content: \2022 is the CSS Code/unicode for a bullet */
+    color: #EB8E07; /* Change the color */
+    font-weight: bold; /* If you want it to be bold */
+    display: inline-block; /* Needed to add space between the bullet and the text */
+    width: 1em; /* Also needed for space (tweak if needed) */
+    margin-left: -1em; /* Also needed for space (tweak if needed) */
+}
+
+#AboutCattolica .img_shadow{
+    box-shadow: 20px 20px 5px rgba(0, 0, 0, 0.2);
+}
+
+#AboutCattolica .posAdjust_side_img{
+    margin-top: -14em;
 }

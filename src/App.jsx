@@ -13,6 +13,7 @@ import UsefulInfo from "./pages/Life/UsefulInfo";
 import Milan_Program_Structure from "./pages/Programs/Milan/Milan_Program_Structure";
 import Numbers from "./pages/About_Cattolica/Numbers";
 import Alumni from "./pages/About_Cattolica/Alumni";
+import Milan_campus from "./pages/About_Cattolica/Milan_campus";
 
 
 
@@ -26,6 +27,7 @@ class App extends Component {
                     <Route path="/about-cattolica" component={About_Cattolica} />
                     <Route path="/numbers" component={Numbers} />
                     <Route path="/alumni" component={Alumni} />
+                    <Route path="/campus_milan" component={Milan_campus} />
                     <Route path="/admission" component={Admission} />
                     <Route path="/life_accommodation" component={Accommodation} />
                     <Route path="/life_living" component={Living} />

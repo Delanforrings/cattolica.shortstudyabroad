@@ -112,3 +112,7 @@
 #Milan_Program .btns{
     font-family: "Arial", sans-serif;
 }
+
+#Milan_Program .img_shadow{
+    box-shadow: 20px 20px 5px rgba(0, 0, 0, 0.2);
+}

@@ -31,7 +31,7 @@ class Accommodation extends React.Component {
                             </p>
                         </MDBCol>
                         <MDBCol size="3">
-                            <img src={accom_side} className="img-fluid" />
+                            <img src={accom_side} className="img-fluid img_shadow" />
                         </MDBCol>
                     </MDBRow>
                     <MDBRow className="posAdjust">
