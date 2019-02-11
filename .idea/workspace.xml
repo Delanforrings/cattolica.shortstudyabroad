@@ -3,7 +3,49 @@
   <component name="ChangeListManager">
     <list default="true" id="2aa2c78a-7558-4acc-927f-a3ef5b19e851" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Home/Home.jsx" afterPath="$PROJECT_DIR$/src/pages/Home/Home.jsx" />
+      <change beforePath="$PROJECT_DIR$/src/App.jsx" afterPath="$PROJECT_DIR$/src/App.jsx" />
+      <change beforePath="$PROJECT_DIR$/src/pages/About_Cattolica/Alumni.jsx" afterPath="$PROJECT_DIR$/src/pages/About_Cattolica/Alumni.jsx" />
+      <change beforePath="$PROJECT_DIR$/src/pages/About_Cattolica/Universita Cattolica del Sacro Cuore International.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/pages/About_Cattolica/Universita Cattolica del Sacro Cuore International_files/2648d05562c877c2bd8d390f5b80f605.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/pages/About_Cattolica/Universita Cattolica del Sacro Cuore International_files/3Brochure.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/pages/About_Cattolica/Universita Cattolica del Sacro Cuore International_files/69ff42986dc841c5b3dfdeaf2cf4613a.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/pages/About_Cattolica/Universita Cattolica del Sacro Cuore International_files/Branding banner_slider.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/pages/About_Cattolica/Universita Cattolica del Sacro Cuore International_files/IMG_8261.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/pages/About_Cattolica/Universita Cattolica del Sacro Cuore International_files/Visitus2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/pages/About_Cattolica/Universita Cattolica del Sacro Cuore International_files/addons.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/pages/About_Cattolica/Universita Cattolica del Sacro Cuore International_files/analytics.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/pages/About_Cattolica/Universita Cattolica del Sacro Cuore International_files/css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/pages/About_Cattolica/Universita Cattolica del Sacro Cuore International_files/css3(1).css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/pages/About_Cattolica/Universita Cattolica del Sacro Cuore International_files/css3.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/pages/About_Cattolica/Universita Cattolica del Sacro Cuore International_files/distrib.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/pages/About_Cattolica/Universita Cattolica del Sacro Cuore International_files/djimageslider.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/pages/About_Cattolica/Universita Cattolica del Sacro Cuore International_files/easybox.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/pages/About_Cattolica/Universita Cattolica del Sacro Cuore International_files/ebf37d4e5f4d69a25a864d9b919d348b.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/pages/About_Cattolica/Universita Cattolica del Sacro Cuore International_files/facebook.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/pages/About_Cattolica/Universita Cattolica del Sacro Cuore International_files/footerlogo-5.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/pages/About_Cattolica/Universita Cattolica del Sacro Cuore International_files/general.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/pages/About_Cattolica/Universita Cattolica del Sacro Cuore International_files/icomoon.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/pages/About_Cattolica/Universita Cattolica del Sacro Cuore International_files/instagram.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/pages/About_Cattolica/Universita Cattolica del Sacro Cuore International_files/italian-flag-small1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/pages/About_Cattolica/Universita Cattolica del Sacro Cuore International_files/js_8fe9b.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/pages/About_Cattolica/Universita Cattolica del Sacro Cuore International_files/layout.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/pages/About_Cattolica/Universita Cattolica del Sacro Cuore International_files/mega(1).css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/pages/About_Cattolica/Universita Cattolica del Sacro Cuore International_files/mega(2).css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/pages/About_Cattolica/Universita Cattolica del Sacro Cuore International_files/mega.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/pages/About_Cattolica/Universita Cattolica del Sacro Cuore International_files/study_abroad.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/pages/About_Cattolica/Universita Cattolica del Sacro Cuore International_files/system.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/pages/About_Cattolica/Universita Cattolica del Sacro Cuore International_files/template(1).css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/pages/About_Cattolica/Universita Cattolica del Sacro Cuore International_files/template(2).css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/pages/About_Cattolica/Universita Cattolica del Sacro Cuore International_files/template-j30(1).css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/pages/About_Cattolica/Universita Cattolica del Sacro Cuore International_files/template-j30.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/pages/About_Cattolica/Universita Cattolica del Sacro Cuore International_files/template.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/pages/About_Cattolica/Universita Cattolica del Sacro Cuore International_files/twitter.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/pages/About_Cattolica/Universita Cattolica del Sacro Cuore International_files/typo(1).css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/pages/About_Cattolica/Universita Cattolica del Sacro Cuore International_files/typo.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/pages/About_Cattolica/Universita Cattolica del Sacro Cuore International_files/typography2.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/pages/About_Cattolica/Universita Cattolica del Sacro Cuore International_files/usertools.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/pages/About_Cattolica/Universita Cattolica del Sacro Cuore International_files/youtube.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Life/Accommodation.jsx" afterPath="$PROJECT_DIR$/src/pages/Life/Accommodation.jsx" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,14 +59,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Home.jsx" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/pages/Home/Home.jsx">
+      <file leaf-file-name="Alumni.jsx" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/pages/About_Cattolica/Alumni.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="6" column="36" lean-forward="false" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
-              <folding>
-                <element signature="e#0#41#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="454">
+              <caret line="183" column="69" lean-forward="false" selection-start-line="183" selection-start-column="69" selection-end-line="183" selection-end-column="69" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="About_Cattolica.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pages/About_Cattolica/About_Cattolica.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="197">
+              <caret line="41" column="17" lean-forward="false" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -74,18 +124,18 @@
         <option value="$PROJECT_DIR$/src/Component/TopNavBar/TopNavBar.css" />
         <option value="$PROJECT_DIR$/src/pages/Home/Home.css" />
         <option value="$PROJECT_DIR$/src/pages/Admission/Admission.css" />
-        <option value="$PROJECT_DIR$/src/pages/About_Cattolica/Alumni.jsx" />
         <option value="$PROJECT_DIR$/src/pages/About_Cattolica/milan_campus.jsx" />
-        <option value="$PROJECT_DIR$/src/App.jsx" />
         <option value="$PROJECT_DIR$/src/pages/About_Cattolica/Numbers.jsx" />
         <option value="$PROJECT_DIR$/src/pages/Programs/Milan/Milan_Program_Structure.jsx" />
-        <option value="$PROJECT_DIR$/src/pages/Life/Accommodation.jsx" />
         <option value="$PROJECT_DIR$/src/pages/Life/Life.css" />
         <option value="$PROJECT_DIR$/src/pages/About_Cattolica/About_Cattolica.css" />
         <option value="$PROJECT_DIR$/src/pages/About_Cattolica/Milan_campus.jsx" />
         <option value="$PROJECT_DIR$/src/Component/TopNavBar/TopNavBar.jsx" />
         <option value="$PROJECT_DIR$/src/pages/Programs/Milan/Milan_Program_Structure.css" />
         <option value="$PROJECT_DIR$/src/pages/Home/Home.jsx" />
+        <option value="$PROJECT_DIR$/src/pages/Life/Accommodation.jsx" />
+        <option value="$PROJECT_DIR$/src/App.jsx" />
+        <option value="$PROJECT_DIR$/src/pages/About_Cattolica/Alumni.jsx" />
       </list>
     </option>
   </component>
@@ -265,15 +315,16 @@
       <workItem from="1549326499663" duration="31690000" />
       <workItem from="1549497317563" duration="8095000" />
       <workItem from="1549838086278" duration="2835000" />
-      <workItem from="1549841563090" duration="2717000" />
+      <workItem from="1549841563090" duration="3209000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62837000" />
+    <option name="totallyTimeSpent" value="63329000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1" y="35" width="1680" height="1027" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24954791" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -283,7 +334,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33690986" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33690986" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -315,11 +366,11 @@
           <folding>
             <element signature="e#0#39#0" expanded="false" />
             <element signature="e#1041#1752#0" expanded="false" />
-            <element signature="e#1774#3252#0" expanded="false" />
-            <element signature="e#3274#4709#0" expanded="false" />
-            <element signature="e#4731#6205#0" expanded="false" />
-            <element signature="e#6227#7682#0" expanded="false" />
-            <element signature="e#7704#9166#0" expanded="false" />
+            <element signature="e#1774#3272#0" expanded="false" />
+            <element signature="e#3294#4749#0" expanded="false" />
+            <element signature="e#4771#6265#0" expanded="false" />
+            <element signature="e#6287#7762#0" expanded="false" />
+            <element signature="e#7784#9266#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -359,11 +410,11 @@
           <folding>
             <element signature="e#0#39#0" expanded="false" />
             <element signature="e#1041#1752#0" expanded="false" />
-            <element signature="e#1774#3252#0" expanded="false" />
-            <element signature="e#3274#4709#0" expanded="false" />
-            <element signature="e#4731#6205#0" expanded="false" />
-            <element signature="e#6227#7682#0" expanded="false" />
-            <element signature="e#7704#9166#0" expanded="false" />
+            <element signature="e#1774#3272#0" expanded="false" />
+            <element signature="e#3294#4749#0" expanded="false" />
+            <element signature="e#4771#6265#0" expanded="false" />
+            <element signature="e#6287#7762#0" expanded="false" />
+            <element signature="e#7784#9266#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -372,7 +423,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="27" column="37" lean-forward="false" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="37" />
-          <folding />
+          <folding>
+            <element signature="e#0#41#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -487,6 +540,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#26#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -494,6 +550,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="293">
           <caret line="203" column="28" lean-forward="true" selection-start-line="203" selection-start-column="28" selection-end-line="203" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#39#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -583,6 +642,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="121">
           <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="68" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -590,6 +650,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="49" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="49" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -600,32 +661,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/Life/Accommodation.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="33" column="81" lean-forward="false" selection-start-line="33" selection-start-column="81" selection-end-line="33" selection-end-column="81" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/App.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="29" column="71" lean-forward="false" selection-start-line="29" selection-start-column="71" selection-end-line="29" selection-end-column="71" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/Home/Home.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="223">
           <caret line="22" column="19" lean-forward="false" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/About_Cattolica/About_Cattolica.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="36" lean-forward="false" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
           <folding />
         </state>
       </provider>
@@ -638,38 +677,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/About_Cattolica/Numbers.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="46" column="58" lean-forward="false" selection-start-line="46" selection-start-column="58" selection-end-line="46" selection-end-column="58" />
-          <folding>
-            <element signature="e#0#41#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/About_Cattolica/Milan_campus.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="39" lean-forward="false" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
           <folding>
             <element signature="e#0#39#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/About_Cattolica/Alumni.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="19" column="28" lean-forward="false" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#39#0" expanded="false" />
-            <element signature="e#1041#1752#0" expanded="false" />
-            <element signature="e#1774#3252#0" expanded="false" />
-            <element signature="e#3274#4709#0" expanded="false" />
-            <element signature="e#4731#6205#0" expanded="false" />
-            <element signature="e#6227#7682#0" expanded="false" />
-            <element signature="e#7704#9166#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -686,6 +699,50 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/Programs/Milan/Milan_Program_Structure.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="29" lean-forward="false" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/Home/Home.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4">
+          <caret line="6" column="36" lean-forward="false" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#41#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/About_Cattolica/Numbers.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="28" column="44" lean-forward="true" selection-start-line="28" selection-start-column="44" selection-end-line="28" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="37" column="91" lean-forward="false" selection-start-line="37" selection-start-column="91" selection-end-line="37" selection-end-column="91" />
+          <folding>
+            <element signature="e#0#41#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/Life/Accommodation.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="29" column="48" lean-forward="true" selection-start-line="29" selection-start-column="48" selection-end-line="29" selection-end-column="48" />
           <folding />
         </state>
       </provider>
@@ -710,21 +767,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/Programs/Milan/Milan_Program_Structure.css">
+    <entry file="file://$PROJECT_DIR$/src/pages/About_Cattolica/About_Cattolica.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="29" lean-forward="false" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+        <state relative-caret-position="197">
+          <caret line="41" column="17" lean-forward="false" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/Home/Home.jsx">
+    <entry file="file://$PROJECT_DIR$/src/pages/About_Cattolica/Alumni.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="6" column="36" lean-forward="false" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="454">
+          <caret line="183" column="69" lean-forward="false" selection-start-line="183" selection-start-column="69" selection-end-line="183" selection-end-column="69" />
+          <folding />
         </state>
       </provider>
     </entry>

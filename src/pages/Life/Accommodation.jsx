@@ -49,7 +49,7 @@ class Accommodation extends React.Component {
                         </MDBCol>
                     </MDBRow>
                     <MDBRow>
-                        <MDBCol size="10">
+                        <MDBCol size="8">
                             <p>
                                 Through a dedicated, team-oriented approach, MIL Service is committed to providing every student with the best residential experience.
                             </p>

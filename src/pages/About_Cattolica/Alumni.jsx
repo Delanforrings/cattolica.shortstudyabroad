@@ -43,7 +43,7 @@ class Alumni extends React.Component {
 
                     <MDBRow>
                         <MDBCol size="2" className="offset-md-1">
-                            <img src={ornaghi} className="alumni_icon"/>
+                            <img src={ornaghi} className="img-fluid alumni_icon"/>
                         </MDBCol>
                         <MDBCol size="3" className="alumni_title">
                             <p>
@@ -57,7 +57,7 @@ class Alumni extends React.Component {
                             </p>
                         </MDBCol>
                         <MDBCol size="2" className="offset-md-1">
-                            <img src={prodi} className="alumni_icon"/>
+                            <img src={prodi} className="img-fluid alumni_icon"/>
                         </MDBCol>
                         <MDBCol size="3" className="alumni_title">
                             <p>
@@ -74,7 +74,7 @@ class Alumni extends React.Component {
 
                     <MDBRow>
                         <MDBCol size="2" className="offset-md-1">
-                            <img src={norsa} className="alumni_icon"/>
+                            <img src={norsa} className="img-fluid alumni_icon"/>
                         </MDBCol>
                         <MDBCol size="3" className="alumni_title">
                             <p>
@@ -88,7 +88,7 @@ class Alumni extends React.Component {
                             </p>
                         </MDBCol>
                         <MDBCol size="2" className="offset-md-1">
-                            <img src={augusto} className="alumni_icon"/>
+                            <img src={augusto} className="img-fluid alumni_icon"/>
                         </MDBCol>
                         <MDBCol size="3" className="alumni_title">
                             <p>
@@ -105,7 +105,7 @@ class Alumni extends React.Component {
 
                     <MDBRow>
                         <MDBCol size="2" className="offset-md-1">
-                            <img src={altavilla} className="alumni_icon"/>
+                            <img src={altavilla} className="img-fluid alumni_icon"/>
                         </MDBCol>
                         <MDBCol size="3" className="alumni_title">
                             <p>
@@ -119,7 +119,7 @@ class Alumni extends React.Component {
                             </p>
                         </MDBCol>
                         <MDBCol size="2" className="offset-md-1">
-                            <img src={concetta} className="alumni_icon"/>
+                            <img src={concetta} className="img-fluid alumni_icon"/>
                         </MDBCol>
                         <MDBCol size="3" className="alumni_title">
                             <p>
@@ -136,7 +136,7 @@ class Alumni extends React.Component {
 
                     <MDBRow>
                         <MDBCol size="2" className="offset-md-1">
-                            <img src={ignazio} className="alumni_icon"/>
+                            <img src={ignazio} className="img-fluid alumni_icon"/>
                         </MDBCol>
                         <MDBCol size="3" className="alumni_title">
                             <p>
@@ -150,7 +150,7 @@ class Alumni extends React.Component {
                             </p>
                         </MDBCol>
                         <MDBCol size="2" className="offset-md-1">
-                            <img src={gianlugi} className="alumni_icon"/>
+                            <img src={gianlugi} className="img-fluid alumni_icon"/>
                         </MDBCol>
                         <MDBCol size="3" className="alumni_title">
                             <p>
@@ -167,7 +167,7 @@ class Alumni extends React.Component {
 
                     <MDBRow>
                         <MDBCol size="2" className="offset-md-1">
-                            <img src={ignazio} className="alumni_icon"/>
+                            <img src={ignazio} className="img-fluid alumni_icon"/>
                         </MDBCol>
                         <MDBCol size="3" className="alumni_title">
                             <p>
@@ -181,7 +181,7 @@ class Alumni extends React.Component {
                             </p>
                         </MDBCol>
                         <MDBCol size="2" className="offset-md-1">
-                            <img src={gianlugi} className="alumni_icon"/>
+                            <img src={gianlugi} className="img-fluid alumni_icon"/>
                         </MDBCol>
                         <MDBCol size="3" className="alumni_title">
                             <p>
