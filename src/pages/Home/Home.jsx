@@ -5,10 +5,32 @@ import {MDBView, MDBContainer, MDBCol, MDBRow, Animation, MDBIcon} from 'mdbreac
 import Milan_Card from "../../Component/Card/milan_card";
 import Cattolica_Footer from "../../Component/CattolicaFooter/Cattolica_Footer";
 import {Helmet} from "react-helmet";
+import { css } from '@emotion/core';
+// First way to import
+import { CircleLoader } from 'react-spinners';
+
+const override = css`
+    display: block;
+    margin: 0 auto;
+    border-color: red;
+`;
 
 
 class Home extends React.Component {
+    constructor(props) {
+        super(props);
+        this.state = {
+            loading: true
+        }
+    }
+
+    componentDidMount() {
+        this.setState({loading: 'false'});
+    }
+
+
     render () {
+
         return (
             <div id="CattolicaHome">
                 <Helmet>
@@ -16,8 +38,18 @@ class Home extends React.Component {
                     <title>Study Abroad at UNIVERSITÀ CATTOLICA</title>
                 </Helmet>
                 <Animation type="fadeIn">
-                    <MDBView className="banner">
-                    </MDBView>
+                    <div>
+                        <CircleLoader
+                            css={override}
+                            sizeUnit={"px"}
+                            size={150}
+                            color={'#123abc'}
+                            loading={this.state.loading}
+                        />
+                        <MDBView className="banner" />
+                    </div>
+
+
                     <br/>
                     <MDBContainer>
                         <MDBRow>

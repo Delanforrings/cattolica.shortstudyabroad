@@ -9,14 +9,14 @@
 
 #Milan_Program .nav-pills .nav-link.active, .nav-pills .show>.nav-link {
     color: white;
-    background-color: #EB8E07;
+    background-color: #C67605;
     font-family: "Arial", sans-serif;
     font-size: 1em;
 }
 
 #Milan_Program .nav-link:hover {
     color: white;
-    background-color: #EB8E07;
+    background-color: #EE9902;
     font-family: "Arial", sans-serif;
     font-size: 1em;
 }

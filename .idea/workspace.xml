@@ -3,8 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="2aa2c78a-7558-4acc-927f-a3ef5b19e851" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/Component/TopNavBar/TopNavBar.jsx" afterPath="$PROJECT_DIR$/src/Component/TopNavBar/TopNavBar.jsx" />
-      <change beforePath="$PROJECT_DIR$/src/pages/About_Cattolica/Milan_campus.jsx" afterPath="$PROJECT_DIR$/src/pages/About_Cattolica/Milan_campus.jsx" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" afterPath="$PROJECT_DIR$/package-lock.json" />
+      <change beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Home/Home.jsx" afterPath="$PROJECT_DIR$/src/pages/Home/Home.jsx" />
       <change beforePath="$PROJECT_DIR$/src/pages/Programs/Milan/Milan_Program_Structure.css" afterPath="$PROJECT_DIR$/src/pages/Programs/Milan/Milan_Program_Structure.css" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -19,34 +20,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Milan_Program_Structure.jsx" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pages/Programs/Milan/Milan_Program_Structure.jsx">
+      <file leaf-file-name="Home.jsx" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/pages/Home/Home.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-848">
-              <caret line="57" column="66" lean-forward="false" selection-start-line="57" selection-start-column="66" selection-end-line="57" selection-end-column="66" />
+            <state relative-caret-position="18">
+              <caret line="27" column="38" lean-forward="false" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
               <folding>
-                <element signature="e#3972#14323#0" expanded="false" />
-                <element signature="e#14433#39577#0" expanded="false" />
-                <element signature="e#39693#50434#0" expanded="false" />
-                <element signature="e#50528#66686#0" expanded="false" />
-                <element signature="e#66794#67401#0" expanded="false" />
-                <element signature="e#67505#68148#0" expanded="false" />
-                <element signature="e#68262#68970#0" expanded="false" />
-                <element signature="e#69058#69676#0" expanded="false" />
-                <element signature="e#69769#74279#0" expanded="false" />
-                <element signature="e#74388#77593#0" expanded="false" />
-                <element signature="e#77677#108279#0" expanded="false" />
+                <element signature="e#0#41#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Milan_Program_Structure.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/pages/Programs/Milan/Milan_Program_Structure.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="19" lean-forward="true" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -93,7 +74,6 @@
         <option value="$PROJECT_DIR$/src/pages/Life/HavingFun.jsx" />
         <option value="$PROJECT_DIR$/src/pages/Life/UsefulInfo.jsx" />
         <option value="$PROJECT_DIR$/src/Component/Card/milan_card.jsx" />
-        <option value="$PROJECT_DIR$/src/pages/Home/Home.jsx" />
         <option value="$PROJECT_DIR$/src/Component/TopNavBar/TopNavBar.css" />
         <option value="$PROJECT_DIR$/src/pages/Home/Home.css" />
         <option value="$PROJECT_DIR$/src/pages/Admission/Admission.css" />
@@ -108,6 +88,7 @@
         <option value="$PROJECT_DIR$/src/pages/About_Cattolica/Milan_campus.jsx" />
         <option value="$PROJECT_DIR$/src/Component/TopNavBar/TopNavBar.jsx" />
         <option value="$PROJECT_DIR$/src/pages/Programs/Milan/Milan_Program_Structure.css" />
+        <option value="$PROJECT_DIR$/src/pages/Home/Home.jsx" />
       </list>
     </option>
   </component>
@@ -287,16 +268,15 @@
       <workItem from="1549326499663" duration="31690000" />
       <workItem from="1549497317563" duration="8095000" />
       <workItem from="1549838086278" duration="2835000" />
-      <workItem from="1549841563090" duration="1451000" />
+      <workItem from="1549841563090" duration="2494000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61571000" />
+    <option name="totallyTimeSpent" value="62614000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1" y="35" width="1680" height="1027" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24954791" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -306,7 +286,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33690986" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33690986" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -336,7 +316,7 @@
         <state relative-caret-position="285">
           <caret line="19" column="28" lean-forward="false" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
           <folding>
-            <element signature="e#0#39#0" expanded="true" />
+            <element signature="e#0#39#0" expanded="false" />
             <element signature="e#1041#1752#0" expanded="false" />
             <element signature="e#1774#3252#0" expanded="false" />
             <element signature="e#3274#4709#0" expanded="false" />
@@ -352,7 +332,7 @@
         <state relative-caret-position="1035">
           <caret line="69" column="270" lean-forward="false" selection-start-line="69" selection-start-column="270" selection-end-line="69" selection-end-column="270" />
           <folding>
-            <element signature="e#0#39#0" expanded="true" />
+            <element signature="e#0#39#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -362,7 +342,7 @@
         <state relative-caret-position="690">
           <caret line="46" column="58" lean-forward="false" selection-start-line="46" selection-start-column="58" selection-end-line="46" selection-end-column="58" />
           <folding>
-            <element signature="e#0#41#0" expanded="true" />
+            <element signature="e#0#41#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -380,7 +360,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#39#0" expanded="true" />
+            <element signature="e#0#39#0" expanded="false" />
             <element signature="e#1041#1752#0" expanded="false" />
             <element signature="e#1774#3252#0" expanded="false" />
             <element signature="e#3274#4709#0" expanded="false" />
@@ -412,7 +392,7 @@
         <state relative-caret-position="45">
           <caret line="3" column="36" lean-forward="false" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
           <folding>
-            <element signature="e#0#41#0" expanded="true" />
+            <element signature="e#0#41#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -460,13 +440,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/manifest.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -478,6 +451,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-4594">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -537,6 +511,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="339">
           <caret line="42" column="79" lean-forward="false" selection-start-line="42" selection-start-column="66" selection-end-line="42" selection-end-column="79" />
+          <folding>
+            <element signature="e#0#26#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -595,13 +572,6 @@
     <entry file="file://$PROJECT_DIR$/src/pages/Home/Home.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/Home/Home.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="58" column="56" lean-forward="false" selection-start-line="58" selection-start-column="56" selection-end-line="58" selection-end-column="56" />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/About_Cattolica/About_Cattolica.jsx">
@@ -676,7 +646,7 @@
         <state relative-caret-position="459">
           <caret line="46" column="58" lean-forward="false" selection-start-line="46" selection-start-column="58" selection-end-line="46" selection-end-column="58" />
           <folding>
-            <element signature="e#0#41#0" expanded="true" />
+            <element signature="e#0#41#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -686,7 +656,7 @@
         <state relative-caret-position="180">
           <caret line="12" column="39" lean-forward="false" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
           <folding>
-            <element signature="e#0#39#0" expanded="true" />
+            <element signature="e#0#39#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -696,7 +666,7 @@
         <state relative-caret-position="0">
           <caret line="19" column="28" lean-forward="false" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
           <folding>
-            <element signature="e#0#39#0" expanded="true" />
+            <element signature="e#0#39#0" expanded="false" />
             <element signature="e#1041#1752#0" expanded="false" />
             <element signature="e#1774#3252#0" expanded="false" />
             <element signature="e#3274#4709#0" expanded="false" />
@@ -715,10 +685,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/Programs/Milan/Milan_Program_Structure.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-848">
-          <caret line="57" column="66" lean-forward="false" selection-start-line="57" selection-start-column="66" selection-end-line="57" selection-end-column="66" />
+        <state relative-caret-position="257">
+          <caret line="819" column="1" lean-forward="true" selection-start-line="819" selection-start-column="1" selection-end-line="819" selection-end-column="1" />
           <folding>
             <element signature="e#3972#14323#0" expanded="false" />
             <element signature="e#14433#39577#0" expanded="false" />
@@ -737,9 +715,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/Programs/Milan/Milan_Program_Structure.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="19" lean-forward="true" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+        <state relative-caret-position="270">
+          <caret line="18" column="29" lean-forward="false" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/Home/Home.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="27" column="38" lean-forward="false" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
