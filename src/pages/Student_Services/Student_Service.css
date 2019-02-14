@@ -1,0 +1,86 @@
+#StudentService .banner{
+    background-image: url("./Higher_Education.jpg");
+    height:50vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 66em;
+
+}
+
+#StudentService .nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: white;
+    background-color: #C67605;
+    font-family: "Arial", sans-serif;
+    font-size: 1em;
+}
+
+#StudentService .nav-link:hover {
+    color: white;
+    background-color: #EE9902;
+    font-family: "Arial", sans-serif;
+    font-size: 1em;
+}
+
+#StudentService h1 {
+    font-size: 2.3em;
+    font-family: "Georgia", sans-serif;
+    color: #00609d;
+}
+
+#StudentService h2 {
+    font-size: 1.9em;
+    font-family: "Georgia", sans-serif;
+    color: #00609d;
+}
+
+#StudentService h3 {
+    font-size: 1.7em;
+    font-family: "Arial", sans-serif;
+    color: #00609d;
+}
+
+#StudentService h5 {
+    font-size: 1.5em;
+    font-family: "Arial", sans-serif;
+    color: #00609d;
+}
+
+#StudentService h6 {
+    font-size: 1.3em;
+    color: #d8a915;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#StudentService p {
+    color: black;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#StudentService ul {
+    list-style: none; /* Remove default bullets */
+}
+
+#StudentService li {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#StudentService ul li::before {
+    content: "\2022";  /* Add content: \2022 is the CSS Code/unicode for a bullet */
+    color: #EB8E07; /* Change the color */
+    font-weight: bold; /* If you want it to be bold */
+    display: inline-block; /* Needed to add space between the bullet and the text */
+    width: 1em; /* Also needed for space (tweak if needed) */
+    margin-left: -1em; /* Also needed for space (tweak if needed) */
+}
+
+#StudentService .a_link{
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: underline;
+    font-size: 0.9em;
+}

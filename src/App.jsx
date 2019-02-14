@@ -15,6 +15,8 @@ import Numbers from "./pages/About_Cattolica/Numbers";
 import Alumni from "./pages/About_Cattolica/Alumni";
 import Milan_campus from "./pages/About_Cattolica/Milan_campus";
 import {Animation} from 'mdbreact';
+import Higher_Education from "./pages/About_Cattolica/Higher_Education";
+import Italian_Lang_Course from "./pages/Student_Services/Italian_Lang_Course";
 
 
 
@@ -29,6 +31,8 @@ class App extends Component {
                         <Route path="/about-cattolica" component={About_Cattolica} />
                         <Route path="/numbers" component={Numbers} />
                         <Route path="/alumni" component={Alumni} />
+                        <Route path="/the-italian-higher-education-system" component={Higher_Education} />
+                        <Route path="/italian_lang_course" component={Italian_Lang_Course} />
                         <Route path="/campus_milan" component={Milan_campus} />
                         <Route path="/admission" component={Admission} />
                         <Route path="/life_accommodation" component={Accommodation} />

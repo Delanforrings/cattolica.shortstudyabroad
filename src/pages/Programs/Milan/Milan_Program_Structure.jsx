@@ -2,11 +2,9 @@ import React, {Component} from 'react';
 import {MDBContainer, MDBRow, MDBCol, MDBTable, MDBTableHead, MDBTableBody, MDBView, MDBBtn, MDBIcon, MDBBtnGroup } from 'mdbreact';
 import {Helmet} from 'react-helmet';
 import "./Milan_Program_Structure.css";
-import TabContent from 'react-bootstrap/TabContent';
-import TabPane from 'react-bootstrap/TabPane';
+
 import Tab from 'react-bootstrap/Tab';
-import Tabs from 'react-bootstrap/Tabs';
-import TabContainer from 'react-bootstrap/TabContainer';
+
 import Nav from 'react-bootstrap/Nav';
 import milan_program_home_banner from './cattolica_SA.jpg';
 

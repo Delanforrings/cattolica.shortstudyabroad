@@ -83,12 +83,8 @@ class TopNavBar extends React.Component {
                                                     <h3>Notable Alumni</h3>
                                                     <hr className="dooted"/>
                                                 </MDBDropdownItem>
-                                                <MDBDropdownItem href="/about-cattolica" className="Cattolica_tabs_dd_item">
+                                                <MDBDropdownItem href="/the-italian-higher-education-system" className="Cattolica_tabs_dd_item">
                                                     <h3>The Italian Higher Education System</h3>
-                                                    <hr className="dooted"/>
-                                                </MDBDropdownItem>
-                                                <MDBDropdownItem href="/about-cattolica" className="Cattolica_tabs_dd_item">
-                                                    <h3>Cattolica International News</h3>
                                                     <hr className="dooted"/>
                                                 </MDBDropdownItem>
                                                 <MDBDropdownItem href="/about-cattolica" className="Cattolica_tabs_dd_item">
@@ -145,7 +141,7 @@ class TopNavBar extends React.Component {
                                                     <MDBDropdownItem header>MILAN CAMPUS</MDBDropdownItem>
                                                     <hr className="hr_style"/>
                                                 </MDBDropdownItem>
-                                                <MDBDropdownItem href="#!" className="Cattolica_tabs_dd_item">
+                                                <MDBDropdownItem href="/italian_lang_course" className="Cattolica_tabs_dd_item">
                                                     <h3>Italian Language Course</h3>
                                                     <hr className="dooted"/>
                                                 </MDBDropdownItem>
